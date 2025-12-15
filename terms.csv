@@ -1,15 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'179db1ae1a',extremes,Thunderstorm,#53785a,wmo,البرد دولة قطر,2025-12-15T03:54:00+00:00,Qatar,0.7406992794651284,0,2,ar,ARP,Asia
-'c2d14652de',extremes,Earthquake,#870007,usgs,زلزال إريتريا,2025-11-26T03:37:00+00:00,Eritrea,0.6658929803180391,0,2,ar,NEAF,Africa
-'5282102178',extremes,Flood,#030ba1,wmo,الفيضانات في إسرائيل,2025-12-10T03:45:00+00:00,Israel,0.6649896430787359,0,2,ar,MED,Asia
 '43ab89759b',extremes,Precipitation,#d60d2b,wmo,مطر الأردن,2025-12-15T03:54:00+00:00,Jordan,0.655643687165616,0,2,ar,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,عاصفة إسرائيل,2025-12-05T03:41:00+00:00,Israel,0.6490165246618831,0,2,ar,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,قلة الأمطار في إسرائيل,2025-11-29T03:34:00+00:00,Israel,0.6473230739962611,0,2,ar,MED,Asia
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار الكويت,2025-12-11T03:46:00+00:00,Kuwait,0.6450815145920596,1,1,ar,ARP,Asia
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,هطول أمطار ليبيا,2025-12-05T03:41:00+00:00,Libya,0.6406385528289091,1,1,ar,SAH,Africa
-'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.6401248510538232,1,1,ar,SAH,Africa
-'12d6885fb7',extremes,Fog,#d60d2b,wmo,الضباب قطر,2025-11-26T03:37:00+00:00,Qatar,0.6387388834703387,1,1,ar,ARP,Asia
-'37e971ba15',extremes,Fog,#d60d2b,wmo,ضباب وادي الحولة ووادي إسرائيل,2025-12-07T03:47:00+00:00,Israel,0.6385412788712345,0,2,ar,MED,Asia
 '42eb55f644',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار ليبيا,2025-12-04T03:42:00+00:00,Libya,0.6379682382803366,1,1,ar,SAH,Africa
 '30a92e39e9',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار المسكرة,2025-11-26T03:37:00+00:00,Algeria,0.6363195047022185,1,1,ar,SAH,Africa
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,حائل قطر,2025-12-13T03:38:00+00:00,Qatar,0.6353506563558042,1,1,ar,ARP,Asia
@@ -45,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2025-11-27T03:34:00+00:00,Morocco,0.5702190421984272,1,1,ar,MED,Africa
 '5d5feeb7da',extremes,Drought,#edc291,edo,جفاف جزر القمر,2025-12-08T03:45:00+00:00,Comoros,0.568220122054136,1,1,ar,ESAF,Africa
 '92e2638c77',extremes,Flood,#030ba1,wmo,فيضانات إسرائيل,2025-12-12T03:45:00+00:00,Israel,0.5668394071619766,1,1,ar,MED,Asia
+'c2d14652de',extremes,Earthquake,#870007,usgs,زلزال إريتريا,2025-11-26T03:37:00+00:00,Eritrea,0.5660090332703333,1,1,ar,NEAF,Africa
 '5577bbdf6e',extremes,Drought,#edc291,edo,جفاف سوريا,2025-12-03T03:40:00+00:00,Syria,0.5565425336340171,1,2,ar,MED,Asia
 '0d2f7df845',extremes,Drought,#edc291,edo,الجفاف في الأراضي الفلسطينية,2025-11-29T03:34:00+00:00,Palestinian Territory,0.5540777378516979,2,1,ar,MED,Asia
 'aab7909052',extremes,Fog,#d60d2b,wmo,ضباب إسرائيل,2025-12-07T03:47:00+00:00,Israel,0.5540632461719284,1,1,ar,MED,Asia
@@ -53,6 +48,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e5cad95879',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية إسرائيل,2025-12-10T03:45:00+00:00,Israel,0.5449269652492624,1,1,ar,MED,Asia
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,أمطار على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.5448582002503605,2,1,ar,SAH,Africa
 '2b20a18bcb',extremes,Drought,#edc291,edo,جفاف المغرب,2025-11-26T03:37:00+00:00,Morocco,0.5447262477443988,2,1,ar,MED,Africa
+'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.5441061233957497,2,1,ar,SAH,Africa
+'37e971ba15',extremes,Fog,#d60d2b,wmo,ضباب وادي الحولة ووادي إسرائيل,2025-12-07T03:47:00+00:00,Israel,0.5427600870405492,1,1,ar,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في إسرائيل,2025-12-12T03:45:00+00:00,Israel,0.5380503924693671,1,1,ar,MED,Asia
 '15223de265',extremes,Drought,#edc291,edo,موجة الجفاف في البحرين,2025-12-08T03:45:00+00:00,Bahrain,0.532816568077576,1,1,ar,ARP,Asia
 '68c0518730',extremes,Precipitation,#d60d2b,wmo,مطر المناطق,2025-12-05T03:41:00+00:00,Jordan,0.5310528632874469,1,1,ar,MED,Asia
