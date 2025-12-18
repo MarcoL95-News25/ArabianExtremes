@@ -1,14 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'179db1ae1a',extremes,Thunderstorm,#53785a,wmo,البرد دولة قطر,2025-12-15T03:54:00+00:00,Qatar,0.7406992794651284,0,2,ar,ARP,Asia
-'4e3fdc08d1',extremes,Fog,#d60d2b,wmo,ضباب الأردن,2025-12-18T03:44:00+00:00,Jordan,0.7326327442867637,0,2,ar,MED,Asia
-'d754055198',extremes,Thunderstorm,#53785a,wmo,طقس قاسي دولة قطر,2025-12-18T03:44:00+00:00,Qatar,0.6839048832569551,0,2,ar,ARP,Asia
-'7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية قطر,2025-12-18T03:44:00+00:00,Qatar,0.6819498880850795,0,2,ar,ARP,Asia
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار تنزانيا,2025-12-18T03:44:00+00:00,Tanzania,0.6179381244967684,0,2,ar,SEAF,Africa
+'4e3fdc08d1',extremes,Fog,#d60d2b,wmo,ضباب الأردن,2025-12-18T03:44:00+00:00,Jordan,0.6227378326437492,1,1,ar,MED,Asia
 '0d6443fd8b',extremes,Thunderstorm,#53785a,wmo,طقس قاسي قطر,2025-11-23T03:46:00+00:00,Qatar,0.6162683182756779,1,1,ar,ARP,Asia
-'8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,مناطق هطول الأمطار في منطقتي ليندي ومتوارا.,2025-12-18T03:44:00+00:00,Tanzania,0.6031686868923389,0,2,ar,SEAF,Africa
 '945465874b',extremes,Drought,#edc291,edo,الجفاف جيبوتي,2025-12-01T04:02:00+00:00,Djibouti,0.583188107341297,0,2,ar,NEAF,Africa
+'d754055198',extremes,Thunderstorm,#53785a,wmo,طقس قاسي دولة قطر,2025-12-18T03:44:00+00:00,Qatar,0.5813191507684118,1,1,ar,ARP,Asia
+'7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية قطر,2025-12-18T03:44:00+00:00,Qatar,0.5796574048723175,1,1,ar,ARP,Asia
 '78e909d3d3',extremes,Flood,#030ba1,wmo,طوفان إسرائيل,2025-11-25T03:37:00+00:00,Israel,0.5730897092177676,1,2,ar,MED,Asia
-'92e2638c77',extremes,Flood,#030ba1,wmo,فيضانات إسرائيل,2025-12-12T03:45:00+00:00,Israel,0.5668394071619766,1,1,ar,MED,Asia
 '423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,جليد إسرائيل,2025-12-18T03:44:00+00:00,Israel,0.5656637702107723,0,2,ar,MED,Asia
 '5282102178',extremes,Flood,#030ba1,wmo,الفيضانات في إسرائيل,2025-12-10T03:45:00+00:00,Israel,0.5652411966169255,1,1,ar,MED,Asia
 '43ab89759b',extremes,Precipitation,#d60d2b,wmo,مطر الأردن,2025-12-15T03:54:00+00:00,Jordan,0.5572971340907736,1,1,ar,MED,Asia
@@ -53,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '88a6377a29',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في الأردن,2025-12-10T03:45:00+00:00,Jordan,0.5291193815239155,1,1,ar,MED,Asia
 'd7c38f3484',extremes,Drought,#edc291,edo,جفاف الجزائر,2025-11-26T03:37:00+00:00,Algeria,0.5264952052692302,1,1,ar,SAH,Africa
 '5d8c239887',extremes,Drought,#edc291,edo,قلة الأمطار ليبيا,2025-12-04T03:42:00+00:00,Libya,0.5253139716741648,1,1,ar,SAH,Africa
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار تنزانيا,2025-12-18T03:44:00+00:00,Tanzania,0.5252474058222532,1,1,ar,SEAF,Africa
 'bd21048a6a',extremes,Drought,#edc291,edo,الجفاف في الإمارات العربية المتحدة,2025-11-29T03:34:00+00:00,United Arab Emirates,0.520456196809233,1,1,ar,ARP,Asia
 'b18e6444ed',extremes,Drought,#edc291,edo,قلة الأمطار في السودان,2025-12-04T03:42:00+00:00,Sudan,0.5195579872516557,1,1,ar,SAH,Africa
 '3e863a900a',extremes,Drought,#edc291,edo,الجفاف موريتانيا,2025-12-04T03:42:00+00:00,Mauritania,0.5191752034790329,1,1,ar,SAH,Africa
@@ -62,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e88652df53',extremes,Drought,#edc291,edo,قلة الأمطار في الأراضي الفلسطينية,2025-12-13T03:38:00+00:00,Palestinian Territory,0.5155195106500059,1,1,ar,MED,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,قلة الأمطار الكويت,2025-11-29T03:34:00+00:00,Kuwait,0.5135527824037986,1,1,ar,ARP,Asia
 '778005a26b',extremes,Drought,#edc291,edo,جفاف موريتانيا,2025-11-26T03:37:00+00:00,Mauritania,0.5131642388525349,1,1,ar,SAH,Africa
+'8c64e91fe4',extremes,Precipitation,#d60d2b,wmo,مناطق هطول الأمطار في منطقتي ليندي ومتوارا.,2025-12-18T03:44:00+00:00,Tanzania,0.5126933838584881,1,1,ar,SEAF,Africa
 'c303ef3a37',extremes,Drought,#edc291,edo,جفاف اليمن,2025-12-01T04:02:00+00:00,Yemen,0.5095860903434964,1,1,ar,ARP,Asia
 '1002763eb9',extremes,Drought,#edc291,edo,موجة جفاف السودان,2025-11-26T03:37:00+00:00,Sudan,0.5058548692467957,1,1,ar,SAH,Africa
 '556f49f375',extremes,Drought,#edc291,edo,قلة الأمطار في العراق,2025-12-08T03:45:00+00:00,Iraq,0.5029251736491788,1,1,ar,WCA,Asia
