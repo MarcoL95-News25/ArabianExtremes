@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'42eb55f644',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار ليبيا,2025-12-04T03:42:00+00:00,Libya,0.7505508685651019,0,2,ar,SAH,Africa
-'778005a26b',extremes,Drought,#edc291,edo,جفاف موريتانيا,2025-12-16T03:47:00+00:00,Mauritania,0.5655552208021881,1,1,ar,SAH,Africa
-'f59e5a15a8',extremes,Drought,#edc291,edo,قحط قطر,2025-12-04T03:42:00+00:00,Qatar,0.5393059833063978,0,2,ar,ARP,Asia
+'69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2025-12-13T03:38:00+00:00,Iraq,0.5469834971010713,3,2,ar,WCA,Asia
 '4963f039ff',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية الأردن,2025-12-11T03:46:00+00:00,Jordan,0.5332723046092285,2,1,ar,MED,Asia
 'cbec1d93ea',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية البحرين,2025-12-16T03:47:00+00:00,Bahrain,0.5326835636622894,2,1,ar,ARP,Asia
 '1a44ba5f85',extremes,Drought,#edc291,edo,قلة الأمطار بتونس,2025-12-04T03:42:00+00:00,Tunisia,0.529235494547532,2,1,ar,MED,Africa
@@ -15,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9531cc816',extremes,Drought,#edc291,edo,جفاف قطر,2025-12-06T03:32:00+00:00,Qatar,0.486628542213211,1,1,ar,ARP,Asia
 '5d5feeb7da',extremes,Drought,#edc291,edo,جفاف جزر القمر,2025-12-08T03:45:00+00:00,Comoros,0.4829871037460155,2,1,ar,ESAF,Africa
 '423b70f0cc',extremes,Snow&Ice,#d60d2b,wmo,جليد إسرائيل,2025-12-18T03:44:00+00:00,Israel,0.4808142046791564,1,1,ar,MED,Asia
+'778005a26b',extremes,Drought,#edc291,edo,جفاف موريتانيا,2025-12-16T03:47:00+00:00,Mauritania,0.4807219376818599,2,1,ar,SAH,Africa
 '5282102178',extremes,Flood,#030ba1,wmo,الفيضانات في إسرائيل,2025-12-10T03:45:00+00:00,Israel,0.4804550171243866,2,1,ar,MED,Asia
 'd99be7f2ac',extremes,Drought,#edc291,edo,قلة المطر تشاد,2025-12-13T03:38:00+00:00,Chad,0.4766688455619802,1,1,ar,SAH,Africa
 '5ec55bb1fd',extremes,Drought,#edc291,edo,جفاف الأردن,2025-12-15T03:54:00+00:00,Jordan,0.4763923167740156,2,1,ar,MED,Asia
@@ -26,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ae2fe0eac',extremes,Storm,#b3b2b1,wmo,عاصفة البحر شمالا,2025-12-16T03:47:00+00:00,Israel,0.4699031999281864,1,1,ar,MED,Asia
 '79c5f0a682',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية البحر شمالا,2025-12-08T03:44:00+00:00,Israel,0.46961524693511,1,1,ar,MED,Asia
 'f8f5c3ad5f',extremes,Drought,#edc291,edo,قلة الأمطار في إسرائيل,2025-11-29T03:34:00+00:00,Israel,0.4676909209622986,2,1,ar,MED,Asia
-'69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2025-12-13T03:38:00+00:00,Iraq,0.4668629201189074,2,1,ar,WCA,Asia
 '435eac9fd6',extremes,Drought,#edc291,edo,قلة الأمطار في المملكة العربية السعودية,2025-12-08T03:45:00+00:00,Saudi Arabia,0.4666976938927559,2,1,ar,ARP,Asia
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار الكويت,2025-12-11T03:46:00+00:00,Kuwait,0.466071394292763,3,1,ar,ARP,Asia
 'db2fe27b15',extremes,Drought,#edc291,edo,موجة الجفاف في الصحراء الغربية,2025-12-03T03:40:00+00:00,Western Sahara,0.4639280567402355,1,1,ar,SAH,Africa
@@ -48,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,البرد الأردن,2025-11-25T03:37:00+00:00,Jordan,0.4585697079351514,3,1,ar,MED,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,جفاف الصومال,2025-12-14T03:49:00+00:00,Somalia,0.4585529742670624,1,1,ar,NEAF,Africa
 'ce2d4957e5',extremes,Fog,#d60d2b,wmo,الضباب الكويت,2025-12-12T03:45:00+00:00,Kuwait,0.4585482354849928,3,1,ar,ARP,Asia
+'f59e5a15a8',extremes,Drought,#edc291,edo,قحط قطر,2025-12-04T03:42:00+00:00,Qatar,0.45841008581043813,1,1,ar,ARP,Asia
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الجزائر,2025-11-23T03:46:00+00:00,Algeria,0.4578401392517203,3,1,ar,SAH,Africa
 '77096c3de3',extremes,Drought,#edc291,edo,قلة الأمطار الصحراء الغربية,2025-12-08T03:45:00+00:00,Western Sahara,0.4574959851520299,2,1,ar,SAH,Africa
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,عاصفة مملكة البحرين,2025-12-19T03:46:00+00:00,Bahrain,0.4574644954793075,3,1,ar,ARP,Asia
@@ -115,7 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5472bbf665',extremes,Drought,#edc291,edo,قلة المطر بالمغرب,2025-12-11T03:46:00+00:00,Morocco,0.4140072066092323,1,1,ar,MED,Africa
 '70bfa35e90',extremes,Drought,#edc291,edo,موجة الجفاف في الجزائر,2025-12-15T03:54:00+00:00,Algeria,0.4126884988690824,1,1,ar,SAH,Africa
 '68b41522c2',extremes,Drought,#edc291,edo,جفاف اليمن,2025-12-06T03:32:00+00:00,Yemen,0.411702644304849,1,1,ar,ARP,Asia
-'f69e2488b5',extremes,Drought,#edc291,edo,جفاف تشاد,2025-12-02T03:41:00+00:00,Chad,0.41125520410932837,0,2,ar,SAH,Africa
+'f69e2488b5',extremes,Drought,#edc291,edo,جفاف تشاد,2025-12-02T03:41:00+00:00,Chad,0.4112552041093283,0,2,ar,SAH,Africa
 '8bc78a3be4',extremes,Drought,#edc291,edo,قلة الأمطار في لبنان,2025-11-27T03:34:00+00:00,Lebanon,0.4105934309870423,2,1,ar,MED,Asia
 '5164507b55',extremes,Drought,#edc291,edo,جفاف الكويت,2025-12-04T03:42:00+00:00,Kuwait,0.4097477105044224,1,1,ar,ARP,Asia
 '92e2638c77',extremes,Flood,#030ba1,wmo,فيضانات إسرائيل,2025-12-12T03:45:00+00:00,Israel,0.409541471674528,3,1,ar,MED,Asia
@@ -148,5 +147,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2025-11-27T03:34:00+00:00,Morocco,0.350185769290109,4,1,ar,MED,Africa
 '8a70b03114',extremes,Drought,#edc291,edo,قلة الأمطار في جزر القمر,2025-12-09T03:41:00+00:00,Comoros,0.3420845459018397,3,1,ar,ESAF,Africa
 '6977afac24',extremes,Volcano,#b83202,eonet,بركان بوراسي كولومبيا,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,ar,NWS,South-America
-'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,الأعاصير المدارية 08P,2025-12-16T03:46:00+00:00,,0.31710009983596993,0,2,ar,SPO,Pacific Ocean
+'707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,الأعاصير المدارية 08P,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,ar,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,موجة فيكتوريا الباردة,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,ar,SAU,Oceania
