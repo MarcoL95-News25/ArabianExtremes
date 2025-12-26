@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a999041fe7',extremes,Precipitation,#d60d2b,wmo,هطول أمطار ليبيا,2025-12-05T03:41:00+00:00,Libya,0.7536924150928342,0,2,ar,SAH,Africa
+'5d5feeb7da',extremes,Drought,#edc291,edo,جفاف جزر القمر,2025-12-08T03:45:00+00:00,Comoros,0.66849426124016,0,2,ar,ESAF,Africa
+'945465874b',extremes,Drought,#edc291,edo,الجفاف جيبوتي,2025-12-01T04:02:00+00:00,Djibouti,0.583188107341297,0,2,ar,NEAF,Africa
 '4963f039ff',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية الأردن,2025-12-11T03:46:00+00:00,Jordan,0.5332723046092285,2,1,ar,MED,Asia
 '2b20a18bcb',extremes,Drought,#edc291,edo,جفاف المغرب,2025-12-16T03:47:00+00:00,Morocco,0.5125592082563797,2,1,ar,MED,Africa
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,أمطار على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.4631294702128063,3,1,ar,SAH,Africa
@@ -123,7 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70bfa35e90',extremes,Drought,#edc291,edo,موجة الجفاف في الجزائر,2025-12-15T03:54:00+00:00,Algeria,0.35078522403872,2,1,ar,SAH,Africa
 'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2025-11-27T03:34:00+00:00,Morocco,0.350185769290109,4,1,ar,MED,Africa
 'f69e2488b5',extremes,Drought,#edc291,edo,جفاف تشاد,2025-12-02T03:41:00+00:00,Chad,0.349566923492929,1,1,ar,SAH,Africa
-'5164507b55',extremes,Drought,#edc291,edo,جفاف الكويت,2025-12-04T03:42:00+00:00,Kuwait,0.34828555392875904,2,1,ar,ARP,Asia
+'5164507b55',extremes,Drought,#edc291,edo,جفاف الكويت,2025-12-04T03:42:00+00:00,Kuwait,0.348285553928759,2,1,ar,ARP,Asia
 '196c887996',extremes,Drought,#edc291,edo,جفاف قطر,2025-12-10T03:45:00+00:00,Qatar,0.343959183826903,2,1,ar,ARP,Asia
 '8a70b03114',extremes,Drought,#edc291,edo,قلة الأمطار في جزر القمر,2025-12-09T03:41:00+00:00,Comoros,0.3420845459018397,3,1,ar,ESAF,Africa
 'cbd214af74',extremes,Drought,#edc291,edo,جفاف أوغندا,2025-12-04T03:42:00+00:00,Uganda,0.3408181316789669,1,1,ar,SEAF,Africa
@@ -152,6 +155,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة في نيوزيلندا,2025-12-14T03:49:00+00:00,New Zealand,0.3056189716581962,0,2,ar,NZ,Oceania
 '0626237bf9',extremes,Flood,#030ba1,cmeter,فيضان تيرانا,2025-12-06T03:33:00+00:00,Albania,0.3053040454152624,0,2,ar,MED,Europe
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,عاصفة أوروغواي,2025-12-02T03:41:00+00:00,Uruguay,0.3049937080995548,0,2,ar,SES,South-America
+'be4e178bab',extremes,Storm,#b3b2b1,wmo,عرام العاصفة أوروغواي,2025-12-02T03:41:00+00:00,Uruguay,0.3048721290934512,0,2,ar,SES,South-America
+'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,إعصار إعصار غرانت كاثرين فيضان انحراف قطار عن مساره وتسرب كيميائي,2025-12-01T04:03:00+00:00,Australia,0.3048591746563622,0,2,ar,NAU,Oceania
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,موجة الحر في الأرجنتين,2025-12-01T04:02:00+00:00,Argentina,0.3048547846706371,0,2,ar,SES,South-America
+'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة من جزيرة با أتول إلى جزيرة ألف أليف المرجانية,2025-12-04T03:42:00+00:00,Maldives,0.30484489138870663,0,2,ar,EIO,Indian Ocean
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,الجليد في كندا,2025-12-02T03:41:00+00:00,Canada,0.3048247155195034,0,2,ar,NEN,North-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,عاصفة باراجواي,2025-12-02T03:41:00+00:00,Paraguay,0.3047732720976817,0,2,ar,SES,South-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,تجميد كندا,2025-12-04T03:42:00+00:00,Canada,0.3047265328247837,0,2,ar,NEN,North-America
 '6977afac24',extremes,Volcano,#b83202,eonet,بركان بوراسي كولومبيا,2025-12-06T03:32:00+00:00,Colombia,0.2699202938116671,1,1,ar,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,الأعاصير المدارية 08P,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,ar,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,موجة فيكتوريا الباردة,2025-12-04T03:42:00+00:00,Australia,0.2692333508802405,1,1,ar,SAU,Oceania
