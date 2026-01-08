@@ -1,14 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'aab7909052',extremes,Fog,#d60d2b,wmo,ضباب إسرائيل,2025-12-07T03:47:00+00:00,Israel,0.6666367920524526,0,2,ar,MED,Asia
-'80d6b52deb',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة على بعض مناطق غرب ليبيا.,2025-12-01T04:02:00+00:00,Libya,0.6401248510538232,1,1,ar,SAH,Africa
-'388a6dbadc',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2025-12-06T03:32:00+00:00,Algeria,0.6386553141944646,1,1,ar,SAH,Africa
 '42eb55f644',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار ليبيا,2025-12-04T03:42:00+00:00,Libya,0.6379682382803366,1,1,ar,SAH,Africa
-'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,عاصفة مملكة البحرين,2025-12-19T03:46:00+00:00,Bahrain,0.6331688518744741,1,1,ar,ARP,Asia
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,تحية ليبيا,2025-12-02T03:41:00+00:00,Libya,0.6230683372847793,1,1,ar,SAH,Africa
 '16348a6786',extremes,Drought,#edc291,edo,موجة الجفاف في تونس,2025-11-30T03:47:00+00:00,Tunisia,0.5760567603383092,1,1,ar,MED,Africa
 '5577bbdf6e',extremes,Drought,#edc291,edo,جفاف سوريا,2025-12-03T03:40:00+00:00,Syria,0.5563925186340171,1,1,ar,MED,Asia
 '086d1df094',extremes,Drought,#edc291,edo,جفاف المملكة العربية السعودية,2025-12-04T03:42:00+00:00,Saudi Arabia,0.5496654867810526,1,1,ar,ARP,Asia
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,أمطار على بعض مناطق غرب ليبيا.,2025-12-03T03:40:00+00:00,Libya,0.5448582002503605,2,1,ar,SAH,Africa
+'388a6dbadc',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2025-12-06T03:32:00+00:00,Algeria,0.5430070320652949,2,1,ar,SAH,Africa
+'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,عاصفة مملكة البحرين,2025-12-19T03:46:00+00:00,Bahrain,0.538193524093303,2,1,ar,ARP,Asia
 '0d6443fd8b',extremes,Thunderstorm,#53785a,wmo,الطقس القاسي قطر,2025-12-16T03:47:00+00:00,Qatar,0.5360740059836087,2,1,ar,ARP,Asia
 '33ffcdb3dc',extremes,Drought,#edc291,edo,قلة الأمطار الأردن,2025-12-07T03:47:00+00:00,Jordan,0.5358094730327617,0,2,ar,MED,Asia
 '3568869efa',extremes,Drought,#edc291,edo,قلة الأمطار في سوريا,2025-12-16T03:47:00+00:00,Syria,0.5347664028344882,2,1,ar,MED,Asia
@@ -28,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c26d713f2',extremes,Drought,#edc291,edo,قلة الأمطار في إريتريا,2025-12-04T03:42:00+00:00,Eritrea,0.4784480524481756,1,1,ar,SAH,Africa
 'b18e6444ed',extremes,Drought,#edc291,edo,قلة الأمطار في السودان,2025-12-04T03:42:00+00:00,Sudan,0.4743440165634741,2,1,ar,SAH,Africa
 '43ab89759b',extremes,Precipitation,#d60d2b,wmo,مطر الأردن,2025-12-15T03:54:00+00:00,Jordan,0.4737025639771576,2,1,ar,MED,Asia
-'79c5f0a682',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية البحر شمالا,2025-12-08T03:44:00+00:00,Israel,0.46961524693511,1,1,ar,MED,Asia
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,عاصفة إسرائيل,2025-12-05T03:41:00+00:00,Israel,0.4689144390682105,2,1,ar,MED,Asia
 'a29729e148',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في إسرائيل,2025-12-12T03:45:00+00:00,Israel,0.4676015401128554,2,1,ar,MED,Asia
 '69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2025-12-13T03:38:00+00:00,Iraq,0.4674179756189074,2,2,ar,WCA,Asia
@@ -55,6 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9531cc816',extremes,Drought,#edc291,edo,موجة جفاف قطر,2025-12-06T03:32:00+00:00,Qatar,0.4136342608812293,2,1,ar,ARP,Asia
 'd99be7f2ac',extremes,Drought,#edc291,edo,قلة المطر تشاد,2025-12-13T03:38:00+00:00,Chad,0.4051685187276831,2,1,ar,SAH,Africa
 '8a70b03114',extremes,Drought,#edc291,edo,قلة الأمطار في جزر القمر,2025-12-09T03:41:00+00:00,Comoros,0.4024524069433409,2,1,ar,ESAF,Africa
+'79c5f0a682',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية البحر شمالا,2025-12-08T03:44:00+00:00,Israel,0.39917295989484347,2,1,ar,MED,Asia
 '435eac9fd6',extremes,Drought,#edc291,edo,قلة الأمطار في المملكة العربية السعودية,2025-12-08T03:45:00+00:00,Saudi Arabia,0.3966930398088425,3,1,ar,ARP,Asia
 '2a1a5777ed',extremes,Drought,#edc291,edo,جفاف الصحراء الغربية,2025-12-10T03:45:00+00:00,Western Sahara,0.3923586328449735,2,1,ar,SAH,Africa
 '77096c3de3',extremes,Drought,#edc291,edo,قلة الأمطار الصحراء الغربية,2025-12-08T03:45:00+00:00,Western Sahara,0.3907516981999978,3,1,ar,SAH,Africa
