@@ -58,7 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8ba2fa4bf',extremes,Flood,#030ba1,wmo,فيضانات جنوب صحراء يهودا البحر الميت,2026-01-18T03:57:00+00:00,Israel,0.5040784081743774,1,1,ar,MED,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,عاصفة ثلجية,2026-01-15T10:39:00+00:00,,0.4990589516075219,1,2,ar,,
 '20741ce7eb',extremes,Tsunami,#690191,random,تسونامي,2026-01-15T10:39:00+00:00,,0.4986300912723958,1,2,ar,,
-'de55985e54',extremes,Earthquake,#870007,usgs,زلزال حديبو,2026-01-21T03:55:00+00:00,Yemen,0.49439042899339086,1,1,ar,ARS,Indian Ocean
+'de55985e54',extremes,Earthquake,#870007,usgs,زلزال حديبو,2026-01-21T03:55:00+00:00,Yemen,0.4943904289933908,1,1,ar,ARS,Indian Ocean
 'd754055198',extremes,Thunderstorm,#53785a,wmo,طقس قاسي دولة قطر,2025-12-18T03:44:00+00:00,Qatar,0.49412127815315,2,1,ar,ARP,Asia
 '8143644bfb',extremes,Drought,#edc291,edo,موجة الجفاف جيبوتي,2026-01-15T12:14:00+00:00,Djibouti,0.488643709283148,1,1,ar,NEAF,Africa
 'a2fb8c843a',extremes,Drought,#edc291,edo,جفاف إريتريا,2026-01-15T12:14:00+00:00,Eritrea,0.4874772692184972,1,1,ar,SAH,Africa
@@ -72,13 +72,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a037e54a9b',extremes,Drought,#edc291,edo,جفاف تونس,2026-01-17T03:44:00+00:00,Tunisia,0.4656353149157043,1,1,ar,MED,Africa
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة في المملكة العربية السعودية,2026-01-15T10:56:00+00:00,Saudi Arabia,0.4619476280026985,1,1,ar,ARP,Asia
 '3568869efa',extremes,Drought,#edc291,edo,قلة الأمطار في سوريا,2026-01-21T03:56:00+00:00,Syria,0.4548888814003171,0,1,ar,MED,Asia
-'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2026-01-17T03:44:00+00:00,Morocco,0.4528024641552421,1,1,ar,MED,Africa
 '165e1b5216',extremes,Drought,#edc291,edo,جفاف ليبيا,2026-01-19T04:03:00+00:00,Libya,0.4522220056185951,1,1,ar,SAH,Africa
 '5d8c239887',extremes,Drought,#edc291,edo,قلة الأمطار ليبيا,2026-01-17T03:44:00+00:00,Libya,0.4503967200772428,1,1,ar,SAH,Africa
 'd7c38f3484',extremes,Drought,#edc291,edo,جفاف الجزائر,2026-01-17T03:44:00+00:00,Algeria,0.4445701594259442,1,1,ar,SAH,Africa
 '33ffcdb3dc',extremes,Drought,#edc291,edo,قلة الأمطار الأردن,2026-01-15T10:57:00+00:00,Jordan,0.443914040684935,1,1,ar,MED,Asia
 'e88652df53',extremes,Drought,#edc291,edo,قلة الأمطار في الأراضي الفلسطينية,2026-01-15T12:14:00+00:00,Palestinian Territory,0.4437977403249758,2,1,ar,MED,Asia
-'778005a26b',extremes,Drought,#edc291,edo,جفاف موريتانيا,2026-01-17T03:44:00+00:00,Mauritania,0.44271902176073286,1,1,ar,SAH,Africa
+'778005a26b',extremes,Drought,#edc291,edo,جفاف موريتانيا,2026-01-17T03:44:00+00:00,Mauritania,0.4427190217607328,1,1,ar,SAH,Africa
 'ccce84ab75',extremes,Drought,#edc291,edo,قلة الأمطار مصر,2026-01-17T03:44:00+00:00,Egypt,0.4403532370768657,1,1,ar,SAH,Africa
 'b18e6444ed',extremes,Drought,#edc291,edo,قلة الأمطار في السودان,2026-01-19T04:03:00+00:00,Sudan,0.4400508879524819,1,1,ar,SAH,Africa
 '1002763eb9',extremes,Drought,#edc291,edo,موجة جفاف السودان,2026-01-15T10:57:00+00:00,Sudan,0.4392448592432806,1,1,ar,SAH,Africa
@@ -117,6 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cdf60d58e5',extremes,Drought,#edc291,edo,الجفاف في إريتريا,2026-01-17T03:44:00+00:00,Eritrea,0.3895109845600999,1,1,ar,SAH,Africa
 '477776ee3b',extremes,Drought,#edc291,edo,جفاف لبنان,2026-01-19T04:03:00+00:00,Lebanon,0.3892010977645548,1,1,ar,MED,Asia
 '435eac9fd6',extremes,Drought,#edc291,edo,قلة الأمطار في المملكة العربية السعودية,2026-01-19T04:03:00+00:00,Saudi Arabia,0.3884012908636316,1,1,ar,ARP,Asia
+'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2026-01-17T03:44:00+00:00,Morocco,0.38503210953195577,2,1,ar,MED,Africa
 'e762488b7b',extremes,Earthquake,#870007,usgs,زلزال كالولا,2026-01-15T10:56:00+00:00,Somalia,0.3843116476708916,1,1,ar,NEAF,Africa
 'bd09b9486d',extremes,Drought,#edc291,edo,قلة الأمطار في جيبوتي,2026-01-15T10:57:00+00:00,Djibouti,0.3829942555579645,1,1,ar,NEAF,Africa
 'b1eb375b87',extremes,Drought,#edc291,edo,قلة الأمطار في أوغندا,2026-01-15T10:57:00+00:00,Uganda,0.367494324837918,1,1,ar,SEAF,Africa
