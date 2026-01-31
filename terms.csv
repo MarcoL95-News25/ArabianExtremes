@@ -198,10 +198,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,هطول الأمطار القياسية,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,ar,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,الانخفاضات الزئبقية,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,ar,,
 '52af874334',extremes,Drought,#edc291,random,قحط,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,ar,,
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,الأعاصير الاستوائية إيطاليا,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,ar,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,العاصفة الشتوية في أمريكا الشمالية نيويورك,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,ar,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,بركان أمبريم، فانواتو,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,ar,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,بركان الفلبين,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,ar,SEA,Asia
 '02f56319a7',extremes,Flood,#030ba1,wmo,فيضان أستراليا,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,ar,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,فيضان أستراليا,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,ar,EAU,Oceania
+'6852666385',extremes,Earthquake,#870007,usgs,زلزال ميناء ماثورين,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,ar,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,زلزال كولشان,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,ar,SWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,زلزال بيرو,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,ar,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,زلزال أولاغوي,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,ar,SWS,South-America
@@ -215,7 +218,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,زلزال سان أنطونيو دي لوس كوبريس,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,ar,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,تسونامي باكولين,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,ar,SEA,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,زلزال روسيا,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,ar,EAS,Asia
+'73d01d320c',extremes,Earthquake,#870007,usgs,زلزال أفغانستان,2026-01-15T12:13:00+00:00,Afghanistan,0.31982132950774916,0,1,ar,WCA,Asia
+'072f41af80',extremes,Earthquake,#870007,usgs,زلزال أراتوكا,2026-01-15T10:56:00+00:00,Colombia,0.31981706112928426,0,1,ar,NWS,South-America
 '43165fdae0',extremes,Earthquake,#870007,usgs,زلزال فيلا باسيليو نيفاس,2026-01-15T12:13:00+00:00,Argentina,0.3198169230889903,0,1,ar,SWS,South-America
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,زلزال كوريلسك,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,ar,EAS,Asia
+'e1256a9495',extremes,Tsunami,#690191,usgs,تسونامي رانشو فيجو,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,ar,SCA,North-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,تسونامي ياكوتات,2026-01-15T10:56:00+00:00,Canada,0.31980867219672904,0,1,ar,NWN,North-America
+'e551102071',extremes,Earthquake,#870007,usgs,زلزال فانواتو,2026-01-15T10:56:00+00:00,Vanuatu,0.31980758222472205,0,1,ar,SPO,Pacific Ocean
+'f5e86f8f49',extremes,Earthquake,#870007,usgs,زلزال سان ميغيل,2026-01-15T10:56:00+00:00,Ecuador,0.31980657221500236,0,1,ar,NWS,South-America
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,الانهيار الثلجي,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,ar,,
 'd59a7e48d7',extremes,Drought,#edc291,random,التبخر,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,ar,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,الجليد البحري في القطب الجنوبي,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,ar,,
@@ -240,7 +250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,درجة الحرارة الحارقة,2026-01-15T12:13:00+00:00,,0.2871362216175053,1,1,ar,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,صقيع الليل,2026-01-15T10:56:00+00:00,,0.2854806993308171,1,1,ar,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,أبرد يوم,2026-01-15T10:56:00+00:00,,0.2850610762146026,1,1,ar,,
-'6b7e025bb3',extremes,Storm,#b3b2b1,random,الزوبعة,2026-01-15T10:56:00+00:00,,0.28176282169361516,1,1,ar,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,الزوبعة,2026-01-15T10:56:00+00:00,,0.2817628216936151,1,1,ar,,
 '69791e5a17',extremes,Flood,#030ba1,random,الفيضان المفاجئ,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,ar,,
 'bd09b9486d',extremes,Drought,#edc291,edo,قلة الأمطار في جيبوتي,2026-01-15T10:57:00+00:00,Djibouti,0.2767133496406293,3,1,ar,NEAF,Africa
 '45f861329d',extremes,Landslide,#572c03,aidr,الانهيار الأرضي في تلال أديلايد جنوب أستراليا,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ar,SAU,Oceania
