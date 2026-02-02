@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8465f983bf',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-02-02T04:36:00+00:00,Algeria,0.7508865334699667,0,1,ar,SAH,Africa
+'8465f983bf',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-02-02T04:36:00+00:00,Algeria,0.6382535534494717,1,1,ar,SAH,Africa
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,الصقيع,2026-01-24T03:48:00+00:00,,0.5542569206012007,3,2,ar,,
 '1f9f784e9e',extremes,Storm,#b3b2b1,wmo,عاصفة جيجل,2026-02-01T04:41:00+00:00,Algeria,0.5425738406517986,2,1,ar,SAH,Africa
 '0a4ac833e4',extremes,Storm,#b3b2b1,wmo,عاصفة البياض,2026-01-29T04:19:00+00:00,Algeria,0.5419444491311284,2,1,ar,SAH,Africa
@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,عاصفة ثلجية,2026-01-15T10:39:00+00:00,,0.5004002288663936,2,2,ar,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,الشتاء القاسي,2026-01-17T03:44:00+00:00,,0.5001595404418389,4,1,ar,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,صقيع,2026-01-15T12:13:00+00:00,,0.4983704050010347,2,2,ar,,
+'296c1b5925',extremes,Storm,#b3b2b1,emdat,عاصفة لبنان,2026-01-15T10:57:00+00:00,Lebanon,0.4917740080063993,1,2,ar,MED,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,زلزال اليمن,2026-01-15T12:13:00+00:00,Yemen,0.4858984224444221,3,1,ar,NEAF,Africa
 '69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2026-01-15T10:57:00+00:00,Iraq,0.4858535811426168,3,1,ar,WCA,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,قلة الأمطار الكويت,2026-01-15T10:57:00+00:00,Kuwait,0.4855860205721129,3,1,ar,ARP,Asia
@@ -85,7 +86,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,عاصفة المملكة العربية السعودية,2026-01-15T10:56:00+00:00,Saudi Arabia,0.4029103819190854,4,1,ar,ARP,Asia
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في المملكة العربية السعودية,2026-01-15T10:56:00+00:00,Saudi Arabia,0.4028935826319186,4,1,ar,ARP,Asia
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة في المملكة العربية السعودية,2026-01-15T12:14:00+00:00,Saudi Arabia,0.4028798170438832,4,1,ar,ARP,Asia
-'296c1b5925',extremes,Storm,#b3b2b1,emdat,عاصفة لبنان,2026-01-15T10:57:00+00:00,Lebanon,0.4017340917722345,0,1,ar,MED,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,عاصفة ثلجية,2026-01-15T10:39:00+00:00,,0.3987910718777968,2,1,ar,,
 'a037e54a9b',extremes,Drought,#edc291,edo,جفاف تونس,2026-01-17T03:44:00+00:00,Tunisia,0.3957900176783486,2,1,ar,MED,Africa
 '4f9450d173',extremes,Snow&Ice,#d60d2b,wmo,صقيع إسرائيل,2026-01-21T03:56:00+00:00,Israel,0.3952200464252487,3,1,ar,MED,Asia
@@ -195,13 +195,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,زلزال كينكونغ,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,1,ar,NAU,Oceania
 '6628268bda',extremes,Earthquake,#870007,usgs,زلزال كورلا,2026-01-15T10:56:00+00:00,China,0.3197488214779085,0,1,ar,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,زلزال ميكيلي,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,ar,NEAF,Africa
-'29aa7b93c5',extremes,Earthquake,#870007,usgs,زلزال جنوب جزر فيجي,2026-01-15T10:56:00+00:00,,0.31974619879240757,0,1,ar,SPO,Pacific Ocean
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,زلزال جنوب جزر فيجي,2026-01-15T10:56:00+00:00,,0.3197461987924075,0,1,ar,SPO,Pacific Ocean
 '3e36cbc783',extremes,Earthquake,#870007,usgs,زلزال لا كونسيبسيون,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,ar,NWS,South-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,زلزال ليفوكا,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,ar,SPO,Pacific Ocean
 '9de3c9007e',extremes,Earthquake,#870007,usgs,زلزال ياكوتات,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,ar,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,ميناء الزلزال ألسوورث,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,ar,NWN,North-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,زلزال جنوب شرق سلسلة جبال الهند,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,ar,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,زلزال باكولين,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,ar,SEA,Asia
+'0f6b56852d',extremes,Earthquake,#870007,usgs,زلزال باكولين,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,ar,SEA,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,الانهيار الثلجي,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,ar,,
 'b64fcbc0c4',extremes,Drought,#edc291,edo,جفاف سوريا,2026-01-23T04:03:00+00:00,Syria,0.3165161564651589,2,1,ar,MED,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,التبخر,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,ar,,
