@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,تجميد,2026-01-22T03:59:00+00:00,,0.528473901932014,4,1,ar,,
 '617402fc79',extremes,Drought,#edc291,edo,موجة الجفاف في إريتريا,2026-01-15T10:57:00+00:00,Eritrea,0.5139693005213177,2,1,ar,SAH,Africa
 '38e5593e0b',extremes,Storm,#b3b2b1,wmo,عاصفة منطقة مكة المكرمة جدة ثول,2026-01-22T03:59:00+00:00,Saudi Arabia,0.5071670374346241,2,1,ar,ARP,Asia
+'a9531cc816',extremes,Drought,#edc291,edo,جفاف قطر,2026-01-15T10:57:00+00:00,Qatar,0.5037591852399335,0,1,ar,ARP,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,عاصفة ثلجية,2026-01-15T10:39:00+00:00,,0.5004002288663936,2,2,ar,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,الشتاء القاسي,2026-01-17T03:44:00+00:00,,0.5001595404418389,4,1,ar,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,صقيع,2026-01-15T12:13:00+00:00,,0.4983704050010347,2,2,ar,,
@@ -195,6 +196,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bf8909453',extremes,Earthquake,#870007,usgs,زلزال ليفوكا,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,ar,SPO,Pacific Ocean
 '9de3c9007e',extremes,Earthquake,#870007,usgs,زلزال ياكوتات,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,ar,NWN,North-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,زلزال جنوب شرق سلسلة جبال الهند,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,ar,SOO,Antarctica
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,زلزال بوليفيا,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,ar,SES,South-America
+'c797f587a9',extremes,Flood,#030ba1,aidr,فيضان بوناه كوينزلاند,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,ar,EAU,Oceania
+'997a2e2157',extremes,Earthquake,#870007,usgs,زلزال الأرجنتين,2026-01-15T10:56:00+00:00,Argentina,0.3197162811068849,0,1,ar,SWS,South-America
+'90e6558608',extremes,Earthquake,#870007,usgs,زلزال جنوب منتصف سلسلة جبال المحيط الأطلسي,2026-01-15T10:56:00+00:00,,0.31971413890021516,0,1,ar,SAO,Atlantic Ocean
+'ad41fee440',extremes,Earthquake,#870007,usgs,زلزال لاتا,2026-01-15T10:56:00+00:00,Solomon Islands,0.3197138825463702,0,1,ar,SPO,Oceania
+'0b2fd57376',extremes,Earthquake,#870007,usgs,زلزال تايوان,2026-01-15T12:13:00+00:00,Taiwan,0.3197039178556724,0,1,ar,EAS,Asia
+'d46b5571fa',extremes,Tsunami,#690191,usgs,تسونامي تايوان,2026-01-15T12:13:00+00:00,Taiwan,0.3197029857884681,0,1,ar,EAS,Asia
+'8abf2def70',extremes,Earthquake,#870007,usgs,زلزال بركان جزر منطقة اليابان,2026-01-15T10:56:00+00:00,,0.31970042390034203,0,1,ar,NPO,Pacific Ocean
+'da0b9741fb',extremes,Earthquake,#870007,usgs,زلزال رانشو فيجو,2026-01-15T12:13:00+00:00,Mexico,0.3196988252639028,0,1,ar,SCA,North-America
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,الانهيار الثلجي,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,ar,,
 'b64fcbc0c4',extremes,Drought,#edc291,edo,جفاف سوريا,2026-01-23T04:03:00+00:00,Syria,0.3165161564651589,2,1,ar,MED,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,سجل البرد,2026-01-15T10:20:00+00:00,,0.3129699959360331,2,1,ar,,
@@ -219,7 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56ec1d3897',extremes,Drought,#edc291,edo,الجفاف في أوغندا,2026-01-17T03:44:00+00:00,Uganda,0.300642375006115,2,1,ar,SEAF,Africa
 'a652c78afc',extremes,Drought,#edc291,random,الجفاف الشديد,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,ar,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,شتاء معتدل,2026-01-17T03:44:00+00:00,,0.296349483127642,1,1,ar,,
-'b426d014da',extremes,Drought,#edc291,edo,موجة الجفاف في تنزانيا,2026-01-19T04:03:00+00:00,Tanzania,0.29623073335609107,2,1,ar,SEAF,Africa
+'b426d014da',extremes,Drought,#edc291,edo,موجة الجفاف في تنزانيا,2026-01-19T04:03:00+00:00,Tanzania,0.296230733356091,2,1,ar,SEAF,Africa
 '3fa143a609',extremes,Storm,#b3b2b1,random,عاصفة ثلجية غبارية,2026-01-15T10:39:00+00:00,,0.2961532462215662,2,1,ar,,
 '40f675561f',extremes,Heat Wave,#c40202,random,أشد حرارة الصيف,2026-01-15T10:56:00+00:00,,0.2950321865222953,1,1,ar,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,الإعصار,2026-01-15T10:56:00+00:00,,0.2935108649530786,1,1,ar,,
@@ -247,8 +257,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,الانخفاضات الزئبقية,2026-01-22T03:59:00+00:00,,0.2721786185109417,2,1,ar,,
 '52af874334',extremes,Drought,#edc291,random,قحط,2026-01-21T03:55:00+00:00,,0.2721368250466943,2,1,ar,,
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,الأعاصير الاستوائية إيطاليا,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,ar,MED,Europe
-'45f861329d',extremes,Landslide,#572c03,aidr,الانهيار الأرضي في تلال أديلايد جنوب أستراليا,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ar,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,العاصفة الشتوية في أمريكا الشمالية نيويورك,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,ar,ENA,North-America
+'45f861329d',extremes,Landslide,#572c03,aidr,الانهيار الأرضي في تلال أديلايد جنوب أستراليا,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,ar,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,بركان أمبريم، فانواتو,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,ar,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,بركان الفلبين,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,ar,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,فيضان نهر أستراليا,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,ar,EAU,Oceania
@@ -292,8 +302,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7921ef009',extremes,Earthquake,#870007,usgs,زلزال فيليوتشينسك,2026-01-15T10:56:00+00:00,Russia,0.2718074862869507,1,1,ar,RFE,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,زلزال فيجي,2026-01-15T10:56:00+00:00,Fiji,0.271786553932886,1,1,ar,SPO,Pacific Ocean
 '2fa9116266',extremes,Earthquake,#870007,usgs,ميناء الزلزال ألسوورث,2026-01-15T12:13:00+00:00,United States,0.2717739625015415,1,1,ar,NWN,North-America
-'0f6b56852d',extremes,Earthquake,#870007,usgs,زلزال باكولين,2026-01-15T10:56:00+00:00,Philippines,0.27177120695531815,1,1,ar,SEA,Asia
-'d59a7e48d7',extremes,Drought,#edc291,random,التبخر,2026-01-20T03:55:00+00:00,,0.26604704162370857,2,1,ar,,
+'0f6b56852d',extremes,Earthquake,#870007,usgs,زلزال باكولين,2026-01-15T10:56:00+00:00,Philippines,0.2717712069553181,1,1,ar,SEA,Asia
+'d59a7e48d7',extremes,Drought,#edc291,random,التبخر,2026-01-20T03:55:00+00:00,,0.2660470416237085,2,1,ar,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,الجليد البحري في القطب الجنوبي,2026-01-21T03:55:00+00:00,,0.2642649326982095,2,1,ar,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,جبهة ويذر,2026-01-15T10:56:00+00:00,,0.2608261030040471,2,1,ar,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,درجة الحرارة الحارقة,2026-01-15T12:13:00+00:00,,0.2440657883748795,2,1,ar,,
