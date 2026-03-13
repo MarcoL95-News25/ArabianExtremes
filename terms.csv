@@ -182,7 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '234a21371e',extremes,Flood,#030ba1,wmo,فيضان جنوب صحراء يهودا البحر الميت,2026-02-24T04:31:00+00:00,Israel,0.3055086790197949,3,1,ar,MED,Asia
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في نيوزيلندا,2026-03-06T04:21:00+00:00,New Zealand,0.3053213352274406,0,1,ar,NZ,Oceania
 'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار سيشيل,2026-03-12T04:26:00+00:00,Seychelles,0.3052869523843858,0,1,ar,EIO,Africa
-'7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار الغزيرة,2026-03-08T04:24:00+00:00,Ecuador,0.3052542487106331,0,1,ar,NWS,South-America
+'7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار الغزيرة,2026-03-08T04:24:00+00:00,Ecuador,0.3052542487106331,1,1,ar,NWS,South-America
 'b81a7e08cc',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في سانتا إيلينا.,2026-03-10T04:22:00+00:00,Ecuador,0.3048195864298911,0,1,ar,NWS,South-America
 'c6083600a3',extremes,Flood,#030ba1,acwe,ارتفاع منسوب المياه غرب أستراليا,2026-03-10T04:22:00+00:00,Australia,0.3047631806514403,0,1,ar,CAU,Oceania
 'bbf523e7e0',extremes,Drought,#edc291,edo,قلة الأمطار في تنزانيا,2026-02-27T04:26:00+00:00,Tanzania,0.3036536281619568,2,1,ar,SEAF,Africa
@@ -323,7 +323,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,المطر الأرجنتين,2026-02-26T04:29:00+00:00,Argentina,0.2213565734043475,2,1,ar,SES,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة في البرازيل,2026-02-25T04:32:00+00:00,Brazil,0.2212367690918293,2,1,ar,SAM,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,المطر جنوب أفريقيا,2026-02-23T04:37:00+00:00,South Africa,0.2209702368488187,2,1,ar,WSAF,Africa
-'453697199c',extremes,Storm,#b3b2b1,wmo,عاصفة غانا,2026-02-17T04:31:00+00:00,Ghana,0.22094547213555474,2,1,ar,WAF,Africa
+'453697199c',extremes,Storm,#b3b2b1,wmo,عاصفة غانا,2026-02-17T04:31:00+00:00,Ghana,0.2209454721355547,2,1,ar,WAF,Africa
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,موجة الحر المنطقة 1 – شديدة,2026-02-17T04:31:00+00:00,Paraguay,0.2209316208567219,2,1,ar,SES,South-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,موجة الحرارة ريج. 3 بريكورديليرا,2026-02-17T04:31:00+00:00,Chile,0.2209316075625405,2,1,ar,SWS,South-America
 '6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة في شرق بوكيرانجي,2026-02-17T04:31:00+00:00,New Zealand,0.2209224324833568,2,1,ar,NZ,Oceania
@@ -361,7 +361,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '730507950b',extremes,Fog,#d60d2b,wmo,جمهورية الضباب كالميكيا,2026-02-13T04:34:00+00:00,Russia,0.2201741014173682,2,1,ar,ESB,Europe
 '10cef2007d',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف المنطقة 2 - شديدة,2026-02-21T04:18:00+00:00,Paraguay,0.2201311733090968,2,1,ar,SES,South-America
 '9fe5b0338d',extremes,Fog,#d60d2b,wmo,الضباب كرواتيا,2026-03-01T04:35:00+00:00,Croatia,0.2201134388914697,2,1,ar,WCE,Europe
-'1512f21012',extremes,Precipitation,#d60d2b,wmo,الهطول الساحلي,2026-02-16T04:38:00+00:00,Ecuador,0.22007732260312118,2,1,ar,NWS,South-America
+'1512f21012',extremes,Precipitation,#d60d2b,wmo,الهطول الساحلي,2026-02-16T04:38:00+00:00,Ecuador,0.2200773226031211,2,1,ar,NWS,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,الضباب الولايات المتحدة,2026-02-26T04:29:00+00:00,United States,0.2199818669173618,2,1,ar,CNA,North-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,عاصفة فانواتو,2026-02-18T04:34:00+00:00,Vanuatu,0.2199657225686283,2,1,ar,SPO,Oceania
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,جبل الجليد في القارة القطبية الجنوبية,2026-02-19T04:31:00+00:00,,0.195137453944898,3,1,ar,,
