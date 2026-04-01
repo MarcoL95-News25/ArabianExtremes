@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,تجميد المملكة العربية السعودية,2026-03-25T04:33:00+00:00,Saudi Arabia,0.7586512373489357,0,1,ar,ARP,Asia
+'2840754e5c',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف ليبيا,2026-04-01T05:12:00+00:00,Libya,0.7552218023708148,0,1,ar,SAH,Africa
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,ثلج البليدة,2026-03-29T05:00:00+00:00,Algeria,0.7538815947545132,0,1,ar,SAH,Africa
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية قطر,2026-03-28T04:33:00+00:00,Qatar,0.7536192528186239,0,1,ar,ARP,Asia
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,حائل قطر,2026-03-26T04:56:00+00:00,Qatar,0.7508796015110962,0,1,ar,ARP,Asia
@@ -168,6 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,المطر الغزير,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,ar,,
 '1cee83f69e',extremes,Drought,#edc291,edo,جفاف البحرين,2026-02-25T04:33:00+00:00,Bahrain,0.340985026864998,3,1,ar,ARP,Asia
 '435eac9fd6',extremes,Drought,#edc291,edo,قلة الأمطار في المملكة العربية السعودية,2026-03-01T04:35:00+00:00,Saudi Arabia,0.3402022755765352,4,1,ar,ARP,Asia
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,موجة البرد,2026-04-01T05:12:00+00:00,,0.33994740490945696,0,1,ar,,
 'ccce84ab75',extremes,Drought,#edc291,edo,قلة الأمطار مصر,2026-03-06T04:21:00+00:00,Egypt,0.339585330176534,4,1,ar,SAH,Africa
 '10171e1a09',extremes,Drought,#edc291,edo,جفاف تنزانيا,2026-03-01T04:35:00+00:00,Tanzania,0.3393097258602984,2,1,ar,SEAF,Africa
 'b213984cd8',extremes,Drought,#edc291,edo,جفاف الصحراء الغربية,2026-03-03T04:27:00+00:00,Western Sahara,0.3386823069363914,3,1,ar,SAH,Africa
@@ -231,14 +233,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db9244a045',extremes,Drought,#edc291,acwe,موجة الجفاف فيكتوريا,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,1,ar,SAU,Oceania
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,الطقس البارد في أستراليا,2026-03-31T05:00:00+00:00,Australia,0.3117066864320307,0,1,ar,CAU,Oceania
 'dba9977fc1',extremes,Drought,#edc291,edo,قلة الأمطار في جزر فارو,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,ar,NEU,Europe
+'6fde59a3a9',extremes,Drought,#edc291,acwe,جفاف كوينزلاند,2026-03-20T04:27:00+00:00,Australia,0.3114252888609886,0,1,ar,CAU,Oceania
 '79079cfee6',extremes,Drought,#edc291,edo,جفاف تشاد,2026-03-01T04:35:00+00:00,Chad,0.3109301780769134,2,1,ar,SAH,Africa
 'ed806b22f8',extremes,Drought,#edc291,edo,جفاف بوتان,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,ar,TIB,Asia
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,عاصفة شديدة العاصفة ملبورن فيكتوريا 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,ar,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,جفاف أستراليا,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,ar,SAU,Oceania
-'136998b302',extremes,Cold Wave,#a7e9fa,acwe,الطقس البارد في كوينزلاند,2026-03-31T05:00:00+00:00,Australia,0.31052947690257104,0,1,ar,CAU,Oceania
+'136998b302',extremes,Cold Wave,#a7e9fa,acwe,الطقس البارد في كوينزلاند,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,ar,CAU,Oceania
 '5876f74566',extremes,Drought,#edc291,edo,جفاف الأردن,2026-03-14T04:23:00+00:00,Jordan,0.3104310876801334,2,1,ar,MED,Asia
 'cbd214af74',extremes,Drought,#edc291,edo,جفاف أوغندا,2026-03-17T04:30:00+00:00,Uganda,0.3094810385866289,2,1,ar,SEAF,Africa
-'4508810067',extremes,Storm,#b3b2b1,wmo,العاصفة الساحلية الشمالية والداخلية,2026-03-31T04:59:00+00:00,Ecuador,0.30885761760333763,0,1,ar,NWS,South-America
+'4508810067',extremes,Storm,#b3b2b1,wmo,العاصفة الساحلية الشمالية والداخلية,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,ar,NWS,South-America
+'ca64be4528',extremes,Storm,#b3b2b1,wmo,عاصفة بيلاروسيا,2026-03-24T04:31:00+00:00,Belarus,0.3082598547552654,0,1,ar,WCE,Europe
 '7e68dc4baa',extremes,Drought,#edc291,edo,جفاف بوتان,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,ar,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,موجة الجفاف في سورينام,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,ar,NSA,South-America
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,ثلج النمسا,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,ar,WCE,Europe
@@ -269,17 +273,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eff78b7be8',extremes,Drought,#edc291,edo,الجفاف في بنغلاديش,2026-03-26T04:56:00+00:00,Bangladesh,0.3060542383045668,0,1,ar,SAS,Asia
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,ثلج كندا,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,ar,NEN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,تعويذة رطبة,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,ar,,
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,عاصفة سييرا نورتي ووسطها,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,ar,NWS,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة في سييرا نورتي ووسط,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,ar,NWS,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,عاصفة المنطقة الجنوبية الشرقية,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,ar,MED,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف المنطقة 1 - معتدلة,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,ar,SES,South-America
-'2b54723d48',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة في أمازونيا,2026-03-31T04:59:00+00:00,Ecuador,0.30586614845156623,0,1,ar,NWS,South-America
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة في أمازونيا,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,ar,NWS,South-America
 'c434e503e1',extremes,Drought,#edc291,edo,جفاف مصر,2026-03-20T04:26:00+00:00,Egypt,0.3058470389741744,2,1,ar,SAH,Africa
-'07f5003376',extremes,Storm,#b3b2b1,wmo,عاصفة الإكوادور القارية,2026-03-12T04:26:00+00:00,Ecuador,0.30581995734597217,0,1,ar,NWS,South-America
+'07f5003376',extremes,Storm,#b3b2b1,wmo,عاصفة الإكوادور القارية,2026-03-12T04:26:00+00:00,Ecuador,0.3058199573459721,0,1,ar,NWS,South-America
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,موجة الحر روسيا,2026-04-01T05:12:00+00:00,Russia,0.3056134234594387,0,1,ar,ESB,Europe
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف الساحلية الشمالية والداخلية,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,ar,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,الفيضانات العارمة في إثيوبيا,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,ar,NEAF,Africa
 '234a21371e',extremes,Flood,#030ba1,wmo,فيضان جنوب صحراء يهودا البحر الميت,2026-02-24T04:31:00+00:00,Israel,0.3055086790197949,3,1,ar,MED,Asia
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,هطول الامطار سييرا نورتي ووسط,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,ar,NWS,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الإكوادور,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,1,ar,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,تيارات وموجات الحرارة المرتفعة,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,ar,SES,South-America
+'5b66901fd7',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات كاريبيرج فانويكسفلي,2026-03-31T04:59:00+00:00,South Africa,0.305339804916354,0,1,ar,WSAF,Africa
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,المطر الاكوادور,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,ar,NWS,South-America
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,عاصفة جزر سليمان,2026-03-18T04:36:00+00:00,Solomon Islands,0.3051781056156144,0,1,ar,EPO,Oceania
 'bbf523e7e0',extremes,Drought,#edc291,edo,قلة الأمطار في تنزانيا,2026-02-27T04:26:00+00:00,Tanzania,0.3036536281619568,2,1,ar,SEAF,Africa
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,العواصف الإكوادور,2026-03-09T04:31:00+00:00,Ecuador,0.3028380722530107,0,1,ar,NWS,South-America
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,هطول جزر سليمان,2026-03-16T05:05:00+00:00,Solomon Islands,0.3025590596323533,0,1,ar,EPO,Oceania
