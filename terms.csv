@@ -128,22 +128,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,صقيع,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,ar,WCE,Europe
 '086d1df094',extremes,Drought,#edc291,edo,جفاف المملكة العربية السعودية,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3069184228747258,2,1,ar,ARP,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,نار الهشيم,2026-04-08T05:00:00+00:00,,0.3069164745742703,1,1,ar,,
-'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,هالين الجليد,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,ar,WCE,Europe
-'92035e2c20',extremes,Drought,#edc291,edo,موجة الجفاف في مدغشقر,2026-03-28T04:33:00+00:00,Madagascar,0.3066751643255777,0,1,ar,MDG,Africa
-'f484ebfc83',extremes,Storm,#b3b2b1,wmo,عرام العاصفة بلغاريا,2026-04-07T04:59:00+00:00,Bulgaria,0.3066514008335583,0,1,ar,MED,Europe
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف المنطقة 2 - معتدلة,2026-03-23T04:42:00+00:00,Paraguay,0.3066406231175352,0,1,ar,SES,South-America
-'2db1256b65',extremes,Storm,#b3b2b1,wmo,العواصف شمال مقدونيا,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,ar,MED,Europe
-'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,أيسلندا الجليدية,2026-03-19T04:35:00+00:00,Iceland,0.3065618318911581,0,1,ar,GIC,Europe
-'4508d0e7cc',extremes,Drought,#edc291,acwe,انخفاض منسوب المياه في أستراليا,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,ar,CAU,Oceania
-'6a3e3c9638',extremes,Storm,#b3b2b1,wmo,منطقة غرودنو العاصفة,2026-03-26T04:56:00+00:00,Belarus,0.3064317783458752,0,1,ar,WCE,Europe
-'39afca9687',extremes,Storm,#b3b2b1,wmo,منطقة العواصف سكوبي,2026-03-26T04:56:00+00:00,North Macedonia,0.3062516929422517,0,1,ar,MED,Europe
-'3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,جمهورية مولدوفا الجليدية,2026-04-10T05:13:00+00:00,Republic of Moldova,0.3061361481127652,0,1,ar,WCE,Europe
-'4093195155',extremes,Storm,#b3b2b1,wmo,العواصف الهند,2026-04-02T04:42:00+00:00,India,0.3060850052388456,0,1,ar,SAS,Asia
-'eff78b7be8',extremes,Drought,#edc291,edo,الجفاف في بنغلاديش,2026-03-26T04:56:00+00:00,Bangladesh,0.3060542383045668,0,1,ar,SAS,Asia
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,ثلج كندا,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,ar,NEN,North-America
-'283b154c38',extremes,Wet Spell,#d60d2b,random,تعويذة رطبة,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,ar,,
-'cb68d1153d',extremes,Storm,#b3b2b1,wmo,عاصفة سييرا نورتي ووسطها,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,ar,NWS,South-America
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,صقيع الأرجنتين,2026-04-11T04:34:00+00:00,Argentina,0.3059699519431419,0,1,ar,SES,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة في سييرا نورتي ووسط,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,ar,NWS,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,عاصفة المنطقة الجنوبية الشرقية,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,ar,MED,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف المنطقة 1 - معتدلة,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,ar,SES,South-America
@@ -444,15 +428,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,عاصفة المملكة المتحدة,2026-04-03T04:43:00+00:00,United Kingdom,0.2610442426579955,1,1,ar,NEU,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,تجميد شواز,2026-03-25T04:33:00+00:00,Austria,0.2610439661091179,1,1,ar,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,عرام العاصفة ميستلباخ,2026-03-25T04:33:00+00:00,Austria,0.2610366614083086,1,1,ar,WCE,Europe
-'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,تجميد جموندن,2026-03-25T04:33:00+00:00,Austria,0.26102256669606066,1,1,ar,WCE,Europe
-'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,تجميد كيرشدورف آن دير كريمس,2026-03-25T04:33:00+00:00,Austria,0.26101912591073106,1,1,ar,WCE,Europe
+'92615c8656',extremes,Snow&Ice,#d60d2b,wmo,تجميد جموندن,2026-03-25T04:33:00+00:00,Austria,0.2610225666960606,1,1,ar,WCE,Europe
+'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,تجميد كيرشدورف آن دير كريمس,2026-03-25T04:33:00+00:00,Austria,0.261019125910731,1,1,ar,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,ريوت العواصف,2026-03-25T04:33:00+00:00,Austria,0.2609903011221133,1,1,ar,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,عاصفة ليلينفيلد,2026-03-25T04:33:00+00:00,Austria,0.2609811671757261,1,1,ar,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,عاصفة spittal على دير دراو,2026-03-25T04:33:00+00:00,Austria,0.2609061952081459,1,1,ar,WCE,Europe
-'b0903e574b',extremes,Storm,#b3b2b1,wmo,عاصفة أيرلندا,2026-03-25T04:33:00+00:00,Ireland,0.26088029192354384,1,1,ar,NEU,Europe
+'b0903e574b',extremes,Storm,#b3b2b1,wmo,عاصفة أيرلندا,2026-03-25T04:33:00+00:00,Ireland,0.2608802919235438,1,1,ar,NEU,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,هالين الجليد,2026-03-25T04:33:00+00:00,Austria,0.2608295095693679,1,1,ar,WCE,Europe
 '429800b7a4',extremes,Drought,#edc291,edo,جفاف جزر فارو,2026-03-15T04:45:00+00:00,Faroe Islands,0.2608004051822676,1,1,ar,NEU,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,انهيار جليدي في روسيا,2026-03-17T04:30:00+00:00,Russia,0.2607591117247242,2,1,ar,ESB,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,موجة الجفاف في مدغشقر,2026-03-28T04:33:00+00:00,Madagascar,0.26067388967674104,1,1,ar,MDG,Africa
+'f484ebfc83',extremes,Storm,#b3b2b1,wmo,عرام العاصفة بلغاريا,2026-04-07T04:59:00+00:00,Bulgaria,0.26065369070852457,1,1,ar,MED,Europe
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف المنطقة 2 - معتدلة,2026-03-23T04:42:00+00:00,Paraguay,0.2606445296499049,1,1,ar,SES,South-America
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,العواصف شمال مقدونيا,2026-03-26T04:56:00+00:00,North Macedonia,0.26063045771621857,1,1,ar,MED,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,أيسلندا الجليدية,2026-03-19T04:35:00+00:00,Iceland,0.26057755710748437,1,1,ar,GIC,Europe
+'4508d0e7cc',extremes,Drought,#edc291,acwe,انخفاض منسوب المياه في أستراليا,2026-03-26T04:57:00+00:00,Australia,0.26050074968278847,1,1,ar,CAU,Oceania
+'6a3e3c9638',extremes,Storm,#b3b2b1,wmo,منطقة غرودنو العاصفة,2026-03-26T04:56:00+00:00,Belarus,0.26046701159399394,1,1,ar,WCE,Europe
+'39afca9687',extremes,Storm,#b3b2b1,wmo,منطقة العواصف سكوبي,2026-03-26T04:56:00+00:00,North Macedonia,0.26031393900091393,1,1,ar,MED,Europe
+'3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,جمهورية مولدوفا الجليدية,2026-04-10T05:13:00+00:00,Republic of Moldova,0.2602157258958504,1,1,ar,WCE,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,عاصفة جامايكا,2026-03-22T04:33:00+00:00,Jamaica,0.2601810706043879,1,1,ar,CAR,North-America
+'4093195155',extremes,Storm,#b3b2b1,wmo,العواصف الهند,2026-04-02T04:42:00+00:00,India,0.2601722544530187,1,1,ar,SAS,Asia
+'eff78b7be8',extremes,Drought,#edc291,edo,الجفاف في بنغلاديش,2026-03-26T04:56:00+00:00,Bangladesh,0.26014610255888176,1,1,ar,SAS,Asia
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,ثلج كندا,2026-03-18T04:36:00+00:00,Canada,0.26013036795002437,1,1,ar,NEN,North-America
+'283b154c38',extremes,Wet Spell,#d60d2b,random,تعويذة رطبة,2026-03-25T04:33:00+00:00,,0.2601227773240541,1,1,ar,,
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,عاصفة سييرا نورتي ووسطها,2026-04-01T05:12:00+00:00,Ecuador,0.260119230391087,1,1,ar,NWS,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,صقيع الأرجنتين,2026-04-11T04:34:00+00:00,Argentina,0.2600744591516706,1,1,ar,SES,South-America
 'fe5dc71b7f',extremes,Storm,#b3b2b1,wmo,عاصفة ميندوزا سان كارلوس سان رافائيل.,2026-03-14T04:22:00+00:00,Argentina,0.2594301519233897,1,1,ar,SES,South-America
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف ترينيداد وتوباغو,2026-03-15T04:45:00+00:00,Trinidad and Tobago,0.2594138014975207,1,1,ar,NSA,North-America
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار أوروغواي,2026-03-23T04:42:00+00:00,Uruguay,0.2581860698322736,1,1,ar,SES,South-America
