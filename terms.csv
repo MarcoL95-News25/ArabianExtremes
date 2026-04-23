@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الجزائر,2026-04-11T04:34:00+00:00,Algeria,0.6446469335845741,1,1,ar,SAH,Africa
 '6645064ba6',extremes,Precipitation,#d60d2b,wmo,مطر بسكرة,2026-04-23T05:16:00+00:00,Algeria,0.629370411366577,1,1,ar,SAH,Africa
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,عاصفة البحرين,2026-04-23T05:16:00+00:00,Bahrain,0.6285657941124988,1,1,ar,ARP,Asia
 'e7357c22dd',extremes,Fog,#d60d2b,wmo,ضباب شمال النقب الغربي النقب الغربي,2026-04-23T05:16:00+00:00,Israel,0.5781305148661686,1,1,ar,MED,Asia
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2026-04-06T05:11:00+00:00,Algeria,0.5486559709501657,2,1,ar,SAH,Africa
+'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الجزائر,2026-04-11T04:34:00+00:00,Algeria,0.5479498935468881,2,1,ar,SAH,Africa
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في المملكة العربية السعودية,2026-04-07T04:59:00+00:00,Saudi Arabia,0.5474104121075271,2,1,ar,ARP,Asia
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,عاصفة في قزام,2026-04-08T05:01:00+00:00,Algeria,0.5466767859923959,2,1,ar,SAH,Africa
 'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,صقيع البويرة,2026-04-02T04:42:00+00:00,Algeria,0.5452162089823152,2,1,ar,SAH,Africa
@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,عاصفة قطر,2026-03-25T04:33:00+00:00,Qatar,0.5411803062023511,2,1,ar,ARP,Asia
 'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,البرد الأردن,2026-04-17T05:16:00+00:00,Jordan,0.5409229060397351,2,1,ar,MED,Asia
 'a8ca9eb019',extremes,Precipitation,#d60d2b,wmo,أمطار ليبيا,2026-03-25T04:33:00+00:00,Libya,0.5400984734816522,2,1,ar,SAH,Africa
-'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف قطر,2026-04-22T05:13:00+00:00,Qatar,0.5398079542091512,2,1,ar,ARP,Asia
 'ba0df33205',extremes,Storm,#b3b2b1,wmo,عاصفة تمنراست,2026-04-10T05:13:00+00:00,Algeria,0.5392259337763824,2,1,ar,SAH,Africa
 'a2b880ae1f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في تندوف,2026-03-27T04:57:00+00:00,Algeria,0.5376013490456474,2,1,ar,SAH,Africa
 '97862ae39c',extremes,Precipitation,#d60d2b,wmo,مطر نعمة,2026-03-24T04:31:00+00:00,Algeria,0.5375425918106301,2,1,ar,SAH,Africa
@@ -47,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8a54a840e',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار ميكوا يا ليندي نا متوارا.,2026-04-15T05:12:00+00:00,Tanzania,0.5134361547426165,1,1,ar,SEAF,Africa
 '196c887996',extremes,Drought,#edc291,edo,جفاف قطر,2026-04-01T05:12:00+00:00,Qatar,0.5125727172214222,1,1,ar,ARP,Asia
 '88a6377a29',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في الأردن,2026-03-26T04:56:00+00:00,Jordan,0.510981002835233,2,1,ar,MED,Asia
-'b009512785',extremes,Drought,#edc291,edo,جفاف تونس,2026-04-12T05:12:00+00:00,Tunisia,0.5025873427302351,1,1,ar,MED,Africa
 '477776ee3b',extremes,Drought,#edc291,edo,جفاف لبنان,2026-03-29T05:00:00+00:00,Lebanon,0.5022670224973788,1,1,ar,MED,Asia
 'a9531cc816',extremes,Drought,#edc291,edo,جفاف قطر,2026-04-09T04:58:00+00:00,Qatar,0.501817352274104,1,1,ar,ARP,Asia
 '700728d746',extremes,Drought,#edc291,edo,موجة جفاف في اليمن,2026-03-31T05:00:00+00:00,Yemen,0.5007278974164447,1,1,ar,ARP,Asia
@@ -107,11 +105,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e70dcdf8f1',extremes,Drought,#edc291,edo,موجة الجفاف الكويت,2026-04-04T04:30:00+00:00,Kuwait,0.4602321642256018,2,1,ar,ARP,Asia
 '5263915ad3',extremes,Thunderstorm,#53785a,wmo,طقس شديد القسوة على معظم المناطق,2026-04-16T05:17:00+00:00,Jordan,0.4601834996838763,2,1,ar,MED,Asia
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,هطول أمطار ليبيا,2026-03-28T04:33:00+00:00,Libya,0.4598326824202895,3,1,ar,SAH,Africa
+'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف قطر,2026-04-22T05:13:00+00:00,Qatar,0.4588367610777785,3,1,ar,ARP,Asia
 'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-04-09T04:58:00+00:00,Algeria,0.4581128673865548,3,1,ar,SAH,Africa
 'b426d014da',extremes,Drought,#edc291,edo,موجة الجفاف في تنزانيا,2026-04-22T05:13:00+00:00,Tanzania,0.4577416200387907,1,1,ar,SEAF,Africa
 '68b41522c2',extremes,Drought,#edc291,edo,جفاف اليمن,2026-04-05T05:01:00+00:00,Yemen,0.4570014437601055,1,1,ar,ARP,Asia
-'8ebbd12ae4',extremes,Drought,#edc291,edo,جفاف السودان,2026-03-28T04:33:00+00:00,Sudan,0.45638299355779394,2,1,ar,SAH,Africa
-'f98578d8e3',extremes,Drought,#edc291,edo,جفاف عمان,2026-03-29T05:00:00+00:00,Oman,0.45561971594632694,2,1,ar,ARP,Asia
+'8ebbd12ae4',extremes,Drought,#edc291,edo,جفاف السودان,2026-03-28T04:33:00+00:00,Sudan,0.4563829935577939,2,1,ar,SAH,Africa
+'f98578d8e3',extremes,Drought,#edc291,edo,جفاف عمان,2026-03-29T05:00:00+00:00,Oman,0.4556197159463269,2,1,ar,ARP,Asia
 'dbbbd78a2d',extremes,Drought,#edc291,edo,موجة جفاف عمان,2026-03-27T04:57:00+00:00,Oman,0.4553091339575316,2,1,ar,ARP,Asia
 'bd09b9486d',extremes,Drought,#edc291,edo,قلة الأمطار في جيبوتي,2026-03-27T04:57:00+00:00,Djibouti,0.455139795344353,2,1,ar,NEAF,Africa
 '6c26d713f2',extremes,Drought,#edc291,edo,قلة الأمطار في إريتريا,2026-04-01T05:12:00+00:00,Eritrea,0.4538779055438429,1,1,ar,SAH,Africa
@@ -125,7 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00aa235c89',extremes,Drought,#edc291,edo,جفاف عمان,2026-04-15T05:12:00+00:00,Oman,0.4447532904362137,1,1,ar,ARP,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,الفيضانات,2026-04-06T05:11:00+00:00,,0.444378446936278,1,2,ar,,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار تنزانيا,2026-04-07T04:59:00+00:00,Tanzania,0.444097797842608,2,1,ar,SEAF,Africa
-'2dc96b99cb',extremes,Drought,#edc291,edo,موجة الجفاف في المملكة العربية السعودية,2026-03-29T05:00:00+00:00,Saudi Arabia,0.44330272206882043,2,1,ar,ARP,Asia
+'2dc96b99cb',extremes,Drought,#edc291,edo,موجة الجفاف في المملكة العربية السعودية,2026-03-29T05:00:00+00:00,Saudi Arabia,0.4433027220688204,2,1,ar,ARP,Asia
 'b546e0d0c0',extremes,Drought,#edc291,edo,موجة جفاف في الأراضي الفلسطينية,2026-04-15T05:12:00+00:00,Palestinian Territory,0.4432739773178456,1,1,ar,MED,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,بركان,2026-04-07T04:58:00+00:00,,0.4420226565413169,1,2,ar,,
 'd3353562c0',extremes,Drought,#edc291,edo,جفاف جيبوتي,2026-03-31T05:00:00+00:00,Djibouti,0.441833708901264,1,1,ar,NEAF,Africa
@@ -137,10 +136,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ec55bb1fd',extremes,Drought,#edc291,edo,جفاف الأردن,2026-04-05T05:01:00+00:00,Jordan,0.4359009408428164,1,1,ar,MED,Asia
 'f9446ee727',extremes,Drought,#edc291,edo,قلة الأمطار في اليمن,2026-04-13T05:28:00+00:00,Yemen,0.4351722953679888,1,1,ar,ARP,Asia
 '8e2b93ff6f',extremes,Drought,#edc291,edo,جفاف الكويت,2026-04-16T05:17:00+00:00,Kuwait,0.4333431160532868,1,1,ar,ARP,Asia
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,ثلج,2026-04-20T05:26:00+00:00,,0.4325090904065566,1,2,ar,,
 '086d1df094',extremes,Drought,#edc291,edo,جفاف المملكة العربية السعودية,2026-04-07T04:59:00+00:00,Saudi Arabia,0.4294882078466759,1,1,ar,ARP,Asia
 'b1eb375b87',extremes,Drought,#edc291,edo,قلة الأمطار في أوغندا,2026-04-11T04:34:00+00:00,Uganda,0.4286455741878596,1,1,ar,SEAF,Africa
 '7054c01ed8',extremes,Drought,#edc291,edo,قلة الأمطار في الإمارات العربية المتحدة,2026-03-20T04:26:00+00:00,United Arab Emirates,0.428230753230576,1,1,ar,ARP,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,موجة الجفاف في الإمارات العربية المتحدة,2026-04-07T04:59:00+00:00,United Arab Emirates,0.4280848867535913,1,1,ar,ARP,Asia
+'b009512785',extremes,Drought,#edc291,edo,جفاف تونس,2026-04-12T05:12:00+00:00,Tunisia,0.4271992413206998,2,1,ar,MED,Africa
 'ec65204cd5',extremes,Drought,#edc291,edo,جفاف لبنان,2026-04-15T05:12:00+00:00,Lebanon,0.4223383572904349,1,1,ar,MED,Asia
 '0d9db7ec5c',extremes,Drought,#edc291,edo,موجة الجفاف في إسرائيل,2026-04-03T04:43:00+00:00,Israel,0.4210583980546507,1,1,ar,MED,Asia
 'd7c38f3484',extremes,Drought,#edc291,edo,جفاف الجزائر,2026-03-30T05:12:00+00:00,Algeria,0.4207693024113139,2,1,ar,SAH,Africa
@@ -199,10 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,ولادة جبل الجليد,2026-04-01T05:12:00+00:00,,0.336056295176896,1,1,ar,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,أشد الأعوام حرارة,2026-04-01T05:12:00+00:00,,0.3358611608858944,1,1,ar,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,إعصار القنبلة,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,ar,,
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,أبرد سنة,2026-04-06T05:11:00+00:00,,0.3350036665398402,0,1,ar,,
-'0053afc92f',extremes,Volcano,#b83202,random,لاهار,2026-04-21T05:14:00+00:00,,0.333665592515051,0,1,ar,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,جبل الجليد في القارة القطبية الجنوبية,2026-04-03T04:42:00+00:00,,0.3330960748523434,1,1,ar,,
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,ثلج,2026-04-20T05:26:00+00:00,,0.3321871475371254,0,1,ar,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,العاصفة الاستوائية,2026-04-06T05:11:00+00:00,,0.3310709903247378,0,1,ar,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,هبوب العاصفة,2026-04-05T05:00:00+00:00,,0.3298596639303587,1,1,ar,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,انخفاض درجات الحرارة,2026-04-18T04:56:00+00:00,,0.3290729291325249,0,1,ar,,
@@ -251,13 +249,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2cb70e27d7',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي في جمهورية بورياتيا,2026-04-10T05:13:00+00:00,Russia,0.3027725251001858,0,1,ar,ESB,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,أوعية الغبار,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,ar,,
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في منطقة مالونج,2026-03-25T04:33:00+00:00,China,0.3027614718218533,0,1,ar,EAS,Asia
-'79e64835e0',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في مقاطعة كيوبي,2026-04-05T05:01:00+00:00,China,0.3027483918448603,0,1,ar,EAS,Asia
 'd709206c08',extremes,Storm,#b3b2b1,wmo,ريج العاصفة. 15 كورديليرا,2026-04-13T05:28:00+00:00,Chile,0.3027437179068591,0,1,ar,SWS,South-America
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,الجليد ناكينا أرلاند باغوا,2026-04-08T05:01:00+00:00,Canada,0.3027266669364094,0,1,ar,NEN,North-America
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في ولاية كيرالا,2026-03-29T05:00:00+00:00,India,0.3027152900583464,0,1,ar,SAS,Asia
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي المملح,2026-03-22T04:33:00+00:00,Norway,0.3027086832557891,0,1,ar,NEU,Europe
 'b61a6d1d65',extremes,Snow&Ice,#d60d2b,wmo,صقيع ليلينفيلد,2026-03-25T04:33:00+00:00,Austria,0.3026973573099412,0,1,ar,WCE,Europe
-'32065724b0',extremes,Snow&Ice,#d60d2b,wmo,جليد كوفشتاين,2026-03-25T04:33:00+00:00,Austria,0.3026765740926793,0,1,ar,WCE,Europe
 '4822b6bd98',extremes,Snow&Ice,#d60d2b,wmo,تجميد تامسويج,2026-03-25T04:33:00+00:00,Austria,0.3026419498957768,0,1,ar,WCE,Europe
 '8db658717e',extremes,Flood,#030ba1,wmo,فيضانات أستراليا,2026-04-06T05:11:00+00:00,Australia,0.3026333641331737,0,1,ar,CAU,Oceania
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,ثلج المضايق الشرقية,2026-04-09T04:58:00+00:00,Iceland,0.3025766209540793,0,1,ar,GIC,Europe
@@ -266,7 +262,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0632a85904',extremes,Storm,#b3b2b1,wmo,العاصفة آيزنشتات شتات,2026-03-25T04:33:00+00:00,Austria,0.3025666305475097,0,1,ar,WCE,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في النرويج,2026-04-10T05:13:00+00:00,Norway,0.3025588478844082,0,1,ar,NEU,Europe
 '279d701798',extremes,Flood,#030ba1,wmo,فيضان جنوب أستراليا كوبر كريك,2026-04-08T05:01:00+00:00,Australia,0.3025192970226363,0,1,ar,CAU,Oceania
-'a76459a195',extremes,Storm,#b3b2b1,wmo,غرقت العاصفة فيت آن دير جلان,2026-03-25T04:33:00+00:00,Austria,0.3024723507623967,0,1,ar,WCE,Europe
 'bb3a2ffcc5',extremes,Fog,#d60d2b,wmo,منطقة الضباب روستوف,2026-03-24T04:31:00+00:00,Russia,0.3024548865651165,0,1,ar,ESB,Europe
 'c7dffd1264',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف بروك آن دير ليثا,2026-03-25T04:33:00+00:00,Austria,0.3024433146341043,0,1,ar,WCE,Europe
 '3b28e1fc4f',extremes,Storm,#b3b2b1,wmo,عرام العاصفة ولفسبيرج,2026-03-25T04:33:00+00:00,Austria,0.3024391767669263,0,1,ar,WCE,Europe
@@ -295,7 +290,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '869f1d30c6',extremes,Storm,#b3b2b1,wmo,عاصفة دورنبيرن,2026-03-25T04:33:00+00:00,Austria,0.3020448976180925,0,1,ar,WCE,Europe
 '9a93354f3b',extremes,Drought,#edc291,edo,موجة الجفاف في أنجولا,2026-04-05T05:01:00+00:00,Angola,0.3020126833960758,0,1,ar,WSAF,Africa
 '66dde132e2',extremes,Landslide,#572c03,wmo,الانهيار الطيني في مقاطعة شيجيانغ,2026-04-13T05:28:00+00:00,China,0.3019863758775408,0,1,ar,EAS,Asia
-'34fbbb4741',extremes,Storm,#b3b2b1,wmo,العاصفة فين رودولفشيم فونفهاوس,2026-03-25T04:33:00+00:00,Austria,0.3019560860716966,0,1,ar,WCE,Europe
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي فوس,2026-03-25T04:33:00+00:00,Norway,0.3019252116535548,0,1,ar,NEU,Europe
 'd6d33020fa',extremes,Storm,#b3b2b1,wmo,عاصفة فيينا هيتزينج,2026-03-25T04:33:00+00:00,Austria,0.30191934463366,0,1,ar,WCE,Europe
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف شمال البلاد,2026-04-11T04:34:00+00:00,New Zealand,0.3018863080576587,0,1,ar,NZ,Oceania
@@ -310,13 +304,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,صقيع رومانيا,2026-03-30T05:12:00+00:00,Romania,0.3017590438478709,0,1,ar,WCE,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,عاصفة ثلجية,2026-04-22T05:13:00+00:00,,0.3000963145700744,1,1,ar,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,فيضان النهر,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,ar,,
-'ccefefc59e',extremes,Drought,#edc291,random,الجفاف الشديد,2026-04-12T05:11:00+00:00,,0.29442731890024554,1,1,ar,,
+'ccefefc59e',extremes,Drought,#edc291,random,الجفاف الشديد,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,ar,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,بَرَد,2026-04-10T05:12:00+00:00,,0.2911407862087165,1,1,ar,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,المطر الغزير,2026-03-26T04:56:00+00:00,,0.2900593755530074,1,1,ar,,
 'a652c78afc',extremes,Drought,#edc291,random,الجفاف الشديد,2026-04-09T04:57:00+00:00,,0.2897089760322336,1,1,ar,,
 'c948617fef',extremes,Heat Wave,#c40202,random,التعرض للحرارة الشديدة,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,ar,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,موجة البرد,2026-04-01T05:12:00+00:00,,0.2889552941730384,1,1,ar,,
 '82d648b882',extremes,Drought,#edc291,random,القحط,2026-03-23T04:41:00+00:00,,0.2882160847178246,1,1,ar,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,أبرد سنة,2026-04-06T05:11:00+00:00,,0.28475311655886415,1,1,ar,,
+'0053afc92f',extremes,Volcano,#b83202,random,لاهار,2026-04-21T05:14:00+00:00,,0.28361575363779334,1,1,ar,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,أشد الأيام حرارة,2026-04-04T04:30:00+00:00,,0.2742388377054152,1,1,ar,,
 'f37139fe2d',extremes,Landslide,#572c03,random,الانهيار الطيني,2026-03-29T04:59:00+00:00,,0.2738985266412444,1,1,ar,,
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,موجة البرد نيو ساوث ويلز,2026-03-30T05:12:00+00:00,Australia,0.2714716717364612,1,1,ar,EAU,Oceania
@@ -505,6 +501,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e18c8b44d',extremes,Snow&Ice,#d60d2b,wmo,الصقيع مدينة إنسبروك,2026-03-25T04:33:00+00:00,Austria,0.2573974289513958,1,1,ar,WCE,Europe
 '56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,تجميد النمسا,2026-03-25T04:33:00+00:00,Austria,0.2573973115225943,1,1,ar,WCE,Europe
 '27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,انهيار جليدي جنوب كراسنويارسك كراي,2026-03-24T04:31:00+00:00,Russia,0.2573901246382647,1,1,ar,ESB,Europe
+'79e64835e0',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في مقاطعة كيوبي,2026-04-05T05:01:00+00:00,China,0.25733613306813125,1,1,ar,EAS,Asia
+'32065724b0',extremes,Snow&Ice,#d60d2b,wmo,جليد كوفشتاين,2026-03-25T04:33:00+00:00,Austria,0.2572750879787774,1,1,ar,WCE,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي لينجن,2026-04-10T05:13:00+00:00,Norway,0.257266445099873,1,1,ar,NEU,Europe
 '8f7962a661',extremes,Storm,#b3b2b1,wmo,عرام العاصفة فيلدكيرتش,2026-03-25T04:33:00+00:00,Austria,0.2572065530503911,1,1,ar,WCE,Europe
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة في نيوزيلندا,2026-04-06T05:11:00+00:00,New Zealand,0.2572007394054288,1,1,ar,NZ,Oceania
@@ -514,6 +512,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27ff8af872',extremes,Drought,#edc291,edo,الجفاف في الدنمارك,2026-03-27T04:57:00+00:00,Denmark,0.2571226068107952,1,1,ar,NEU,Europe
 'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي في هالينغدال,2026-04-10T05:13:00+00:00,Norway,0.2571047443686661,1,1,ar,NEU,Europe
 '98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,جليد النمسا,2026-03-25T04:33:00+00:00,Austria,0.2571042964843942,1,1,ar,WCE,Europe
+'a76459a195',extremes,Storm,#b3b2b1,wmo,غرقت العاصفة فيت آن دير جلان,2026-03-25T04:33:00+00:00,Austria,0.2571014981480372,1,1,ar,WCE,Europe
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,انهيار ثلجي في إسبانيا,2026-04-01T05:12:00+00:00,Spain,0.2570573550885749,1,1,ar,MED,Europe
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,عاصفة فويتسبيرج,2026-03-25T04:33:00+00:00,Austria,0.257012177421663,1,1,ar,WCE,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي في ترومس,2026-03-22T04:33:00+00:00,Norway,0.2570011694827791,1,1,ar,NEU,Europe
@@ -525,6 +524,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd13243bee',extremes,Storm,#b3b2b1,wmo,عاصفة فين هيرنالز,2026-03-25T04:33:00+00:00,Austria,0.2567072729712853,1,1,ar,WCE,Europe
 'b1e4e07a7d',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة تاراناكي مونجا,2026-03-25T04:33:00+00:00,New Zealand,0.2566848757013437,1,1,ar,NZ,Oceania
 '24b660695f',extremes,Landslide,#572c03,wmo,الانهيار الطيني في الصين,2026-04-11T04:34:00+00:00,China,0.2566685171166279,1,1,ar,EAS,Asia
+'34fbbb4741',extremes,Storm,#b3b2b1,wmo,العاصفة فين رودولفشيم فونفهاوس,2026-03-25T04:33:00+00:00,Austria,0.2566626731609421,1,1,ar,WCE,Europe
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,الثلوج في الولايات المتحدة,2026-04-06T05:11:00+00:00,United States,0.2566420082810084,1,1,ar,CNA,North-America
 'a2e0bdac9f',extremes,Snow Avalanche,#deddd5,wmo,الانهيار الجليدي في جمهورية داغستان,2026-03-23T04:42:00+00:00,Russia,0.2566378038190532,1,1,ar,ESB,Europe
 'debdbdb81a',extremes,Flood,#030ba1,wmo,فيضان ماهونينج أوه ترامبول أوه,2026-04-02T04:42:00+00:00,United States,0.2566304054212314,1,1,ar,CNA,North-America
