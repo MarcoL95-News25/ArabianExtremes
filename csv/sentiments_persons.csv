@@ -1,35 +1,39 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Zahran Mamdani,Zahran Mamdani,PERSON,0.015082644628099162,0.4646694214876032,en,5.5
+RS Berkane,RS Berkane,PERSON,0.034848484848484844,0.07272727272727274,en,5.5
 Donald Trump,Donald Trump,PERSON,0.12715038584603802,0.5248870694522868,en,4.6
+Al Hilal,Al Hilal,PERSON,-0.0018427518427518435,0.10810810810810813,en,3.6999999999999997
 Ksar El-Kebir,Ksar El-Kebir,PERSON,-0.13392857142857142,0.4017857142857143,en,2.8
+Nahdet Berkane,Nahdet Berkane,PERSON,0.04667207792207792,0.11904761904761905,en,2.8
 Derek Van Dam,Derek Van Dam,PERSON,0.08928571428571429,0.13392857142857142,en,2.8
 Ansar Allah,Ansar Allah,PERSON,0.0,0.0,en,1.9
-RS Berkane,RS Berkane,PERSON,0.0,0.0,en,1.9
 Khatam al-Anbiya,Khatam al-Anbiya,PERSON,0.11403508771929825,0.41228070175438597,en,1.9
 Ali Shamkhani,Ali Shamkhani,PERSON,0.25087719298245614,0.6982456140350878,en,1.9
 Ahmed Al-Tibi,Ahmed Al-Tibi,PERSON,0.2727272727272727,1.1818181818181817,en,1.1
-Mira Abd Rabbo,Mira Abd Rabbo,PERSON,0.0,0.2634920634920635,en,1.0
-Andy Crosby,Andy Crosby,PERSON,0.0,0.04,en,1.0
+Prince Moulay Abdullah Stadium,Prince Moulay Abdullah Stadium,PERSON,0.0625,0.08333333333333333,en,1.0
+Kazem Gharibabadi,Kazem Gharibabadi,PERSON,-0.0625,0.4625,en,1.0
 Tranmere Rovers,Tranmere Rovers,PERSON,0.0,0.04,en,1.0
+Andy Crosby,Andy Crosby,PERSON,0.0,0.04,en,1.0
+Mira Abd Rabbo,Mira Abd Rabbo,PERSON,0.0,0.2634920634920635,en,1.0
+Christopher Stepdonk,Christopher Stepdonk,PERSON,0.008333333333333338,0.225,en,1.0
 Tim Munsey,Tim Munsey,PERSON,0.15333333333333332,0.3466666666666667,en,1.0
-Jackie Wattles,Jackie Wattles,PERSON,0.0,0.0,en,1.0
+Mehrdad Khalili,Mehrdad Khalili,PERSON,0.04545454545454545,0.4515151515151515,en,1.0
+Mahmoud Qamati,Mahmoud Qamati,PERSON,0.25,0.7,en,1.0
+Aaron Rigsby,Aaron Rigsby,PERSON,-0.8,0.95,en,1.0
+Kim Jong Un,Kim Jong Un,PERSON,0.03333333333333335,0.6,en,1.0
+Mamelodi Sundowns,Mamelodi Sundowns,PERSON,0.0625,0.08333333333333333,en,1.0
+Brandon Clement,Brandon Clement,PERSON,-0.18166666666666667,0.54,en,1.0
+Evi Devrin,Evi Devrin,PERSON,0.0,0.0,en,1.0
+Mikel Arteta,Mikel Arteta,PERSON,0.0,0.0,en,1.0
+Mortada Mansour,Mortada Mansour,PERSON,0.0,0.0,en,1.0
 Prince Andrew,Prince Andrew,PERSON,0.0,0.0,en,1.0
+Betsy Cline,Betsy Cline,PERSON,0.06227272727272727,0.2609090909090909,en,1.0
+Amir Hatami,Amir Hatami,PERSON,0.153125,0.5,en,1.0
+Hamza El Moussaoui,Hamza El Moussaoui,PERSON,-0.075,0.15000000000000002,en,1.0
+Jackie Wattles,Jackie Wattles,PERSON,0.0,0.0,en,1.0
+Mike Huckabee,Mike Huckabee,PERSON,0.0,0.42083333333333334,en,1.0
 Peter Mandelson,Peter Mandelson,PERSON,0.0,0.0,en,1.0
 Xabi Alonso,Xabi Alonso,PERSON,0.13333333333333333,0.325,en,1.0
-Christopher Stepdonk,Christopher Stepdonk,PERSON,0.008333333333333338,0.225,en,1.0
-Kim Jong Un,Kim Jong Un,PERSON,0.03333333333333335,0.6,en,1.0
-Mehrdad Khalili,Mehrdad Khalili,PERSON,0.04545454545454545,0.4515151515151515,en,1.0
-Kazem Gharibabadi,Kazem Gharibabadi,PERSON,-0.0625,0.4625,en,1.0
-Mike Huckabee,Mike Huckabee,PERSON,0.0,0.42083333333333334,en,1.0
-Evi Devrin,Evi Devrin,PERSON,0.0,0.0,en,1.0
-Amir Hatami,Amir Hatami,PERSON,0.153125,0.5,en,1.0
-Betsy Cline,Betsy Cline,PERSON,0.06227272727272727,0.2609090909090909,en,1.0
-Brandon Clement,Brandon Clement,PERSON,-0.18166666666666667,0.54,en,1.0
-Aaron Rigsby,Aaron Rigsby,PERSON,-0.8,0.95,en,1.0
-Tucker Carlson,Tucker Carlson,PERSON,0.0,0.42083333333333334,en,1.0
-German Galoshenko,German Galoshenko,PERSON,0.0,0.03125,en,1.0
-Amir Hayat Moghadam,Amir Hayat Moghadam,PERSON,0.065,0.325,en,1.0
-Benjamin Netanyahu,Benjamin Netanyahu,PERSON,0.0,0.0,en,1.0
 Philippe Lazzarini,Philippe Lazzarini,PERSON,0.15,0.6,en,1.0
 Bab al-Mandab,Bab al-Mandab,PERSON,0.05,0.2,en,1.0
 Claudia Sheinbaum,Claudia Sheinbaum,PERSON,0.14444444444444446,0.375,en,1.0
@@ -47,6 +51,10 @@ Thomas Frank,Thomas Frank,PERSON,-0.19166666666666665,0.31666666666666665,en,1.0
 "Cyclone ""Jazani","Cyclone ""Jazani",PERSON,0.0,0.0,en,1.0
 Carlos Alcaraz,Carlos Alcaraz,PERSON,0.04222222222222223,0.37523809523809526,en,1.0
 Hamid Reza Moghaddamfar,Hamid Reza Moghaddamfar,PERSON,0.0,0.4000000000000001,en,1.0
-Christophe Gleize,Christophe Gleize,PERSON,-0.030555555555555558,0.14722222222222223,en,1.0
+German Galoshenko,German Galoshenko,PERSON,0.0,0.03125,en,1.0
 Ibn Taymiyyah,Ibn Taymiyyah,PERSON,-0.05,0.1,en,1.0
-Mahmoud Qamati,Mahmoud Qamati,PERSON,0.25,0.7,en,1.0
+Benjamin Netanyahu,Benjamin Netanyahu,PERSON,0.0,0.0,en,1.0
+Amir Hayat Moghadam,Amir Hayat Moghadam,PERSON,0.065,0.325,en,1.0
+Christophe Gleize,Christophe Gleize,PERSON,-0.030555555555555558,0.14722222222222223,en,1.0
+Tucker Carlson,Tucker Carlson,PERSON,0.0,0.42083333333333334,en,1.0
+Evan Watson,Evan Watson,PERSON,0.0,0.0,en,1.0
