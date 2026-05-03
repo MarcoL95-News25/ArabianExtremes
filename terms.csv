@@ -1,9 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'4807b5d617',extremes,Storm,#b3b2b1,wmo,عاصفة سيدي بلعباس,2026-05-03T05:44:00+00:00,Algeria,0.7306693500491963,0,1,ar,SAH,Africa
+'5d8c239887',extremes,Drought,#edc291,edo,قلة الأمطار ليبيا,2026-04-22T05:13:00+00:00,Libya,0.7179106795122295,0,1,ar,SAH,Africa
+'3e863a900a',extremes,Drought,#edc291,edo,الجفاف موريتانيا,2026-04-22T05:13:00+00:00,Mauritania,0.6873068610389993,0,1,ar,SAH,Africa
+'ccce84ab75',extremes,Drought,#edc291,edo,قلة الأمطار مصر,2026-04-17T05:16:00+00:00,Egypt,0.6844658420176178,0,1,ar,SAH,Africa
+'477776ee3b',extremes,Drought,#edc291,edo,جفاف لبنان,2026-04-18T04:57:00+00:00,Lebanon,0.6361924165158482,0,1,ar,MED,Asia
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2026-04-25T05:00:00+00:00,Algeria,0.5362106242229926,2,1,ar,SAH,Africa
 'c16aa46f44',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف بليدة,2026-05-02T05:24:00+00:00,Algeria,0.5329760433726151,2,1,ar,SAH,Africa
 '32561796ef',extremes,Precipitation,#d60d2b,wmo,مطر بومرداس,2026-04-27T05:40:00+00:00,Algeria,0.5253800732807274,2,1,ar,SAH,Africa
 '8ebbd12ae4',extremes,Drought,#edc291,edo,جفاف السودان,2026-04-17T05:16:00+00:00,Sudan,0.5168432911763734,2,1,ar,SAH,Africa
 '7540581ac3',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية أدرار,2026-04-28T05:45:00+00:00,Algeria,0.5162533888323041,2,1,ar,SAH,Africa
+'26ec4e12b7',extremes,Drought,#edc291,edo,جفاف الأردن,2026-04-29T05:40:00+00:00,Jordan,0.5155697363035027,0,1,ar,MED,Asia
 '8a70b03114',extremes,Drought,#edc291,edo,قلة الأمطار في جزر القمر,2026-04-22T05:13:00+00:00,Comoros,0.5090981356120284,2,1,ar,ESAF,Africa
 'f90601fa23',extremes,Volcano,#b83202,random,ثوران بركان,2026-04-07T04:58:00+00:00,,0.4988064452251044,1,2,ar,,
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,عاصفة إسرائيل,2026-03-31T04:59:00+00:00,Israel,0.4916086370078321,2,1,ar,MED,Asia
@@ -17,6 +23,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ca87424f0',extremes,Drought,#edc291,edo,جفاف المغرب,2026-04-11T04:34:00+00:00,Morocco,0.4815470591759277,2,1,ar,MED,Africa
 'f98578d8e3',extremes,Drought,#edc291,edo,جفاف عمان,2026-04-18T04:57:00+00:00,Oman,0.4789235312026612,1,1,ar,ARP,Asia
 'f3d653a8ff',extremes,Drought,#edc291,edo,جفاف جزر القمر,2026-04-05T05:01:00+00:00,Comoros,0.4742092137202617,2,1,ar,ESAF,Africa
+'1002763eb9',extremes,Drought,#edc291,edo,موجة جفاف السودان,2026-05-03T05:44:00+00:00,Sudan,0.47117804973611643,0,1,ar,SAH,Africa
+'07e9c27471',extremes,Drought,#edc291,edo,جفاف السودان,2026-04-25T05:00:00+00:00,Sudan,0.4685531557072372,0,1,ar,SAH,Africa
 '7054c01ed8',extremes,Drought,#edc291,edo,قلة الأمطار في الإمارات العربية المتحدة,2026-04-11T04:34:00+00:00,United Arab Emirates,0.4667811632145654,2,1,ar,ARP,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,انهيار صخري,2026-04-20T05:26:00+00:00,,0.4661450293806126,1,2,ar,,
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الجزائر,2026-04-11T04:34:00+00:00,Algeria,0.4657574095148548,3,1,ar,SAH,Africa
@@ -36,7 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd21048a6a',extremes,Drought,#edc291,edo,الجفاف في الإمارات العربية المتحدة,2026-04-23T05:17:00+00:00,United Arab Emirates,0.4593524539544931,2,1,ar,ARP,Asia
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف قطر,2026-04-22T05:13:00+00:00,Qatar,0.4588367610777785,3,1,ar,ARP,Asia
 '76b9b0f904',extremes,Thunderstorm,#53785a,wmo,طقس شديد الأردن,2026-04-27T05:40:00+00:00,Jordan,0.4587416021748569,2,1,ar,MED,Asia
-'6d8d284096',extremes,Storm,#b3b2b1,wmo,عاصفة قطر,2026-04-22T05:13:00+00:00,Qatar,0.45834895725690694,3,1,ar,ARP,Asia
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,عاصفة قطر,2026-04-22T05:13:00+00:00,Qatar,0.4583489572569069,3,1,ar,ARP,Asia
 'ba0df33205',extremes,Storm,#b3b2b1,wmo,عاصفة تمنراست,2026-04-10T05:13:00+00:00,Algeria,0.458342043709925,3,1,ar,SAH,Africa
 'fceedbfdbe',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-04-09T04:58:00+00:00,Algeria,0.4581128673865548,3,1,ar,SAH,Africa
 '73eb93e4ee',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة ليبيا,2026-04-24T05:22:00+00:00,Libya,0.4575955981079777,3,1,ar,SAH,Africa
@@ -80,6 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a5e4bce35',extremes,Drought,#edc291,edo,قلة الأمطار الكويت,2026-04-26T05:25:00+00:00,Kuwait,0.4014949061091947,2,1,ar,ARP,Asia
 '08593da076',extremes,Drought,#edc291,edo,موجة الجفاف في موريتانيا,2026-04-03T04:43:00+00:00,Mauritania,0.4011175065615548,3,1,ar,SAH,Africa
 '450e006e61',extremes,Drought,#edc291,edo,جفاف العراق,2026-04-10T05:13:00+00:00,Iraq,0.3999791886158517,3,1,ar,WCA,Asia
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,ولادة جبل الجليد,2026-04-27T05:39:00+00:00,,0.39984671188797355,0,1,ar,,
 '5164507b55',extremes,Drought,#edc291,edo,جفاف الكويت,2026-04-01T05:12:00+00:00,Kuwait,0.3989442474952489,2,1,ar,ARP,Asia
 '70bfa35e90',extremes,Drought,#edc291,edo,موجة الجفاف في الجزائر,2026-04-04T04:30:00+00:00,Algeria,0.3981533921943413,2,1,ar,SAH,Africa
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2026-04-06T05:11:00+00:00,Algeria,0.3964039390114947,4,1,ar,SAH,Africa
@@ -99,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5263915ad3',extremes,Thunderstorm,#53785a,wmo,طقس شديد القسوة على معظم المناطق,2026-04-16T05:17:00+00:00,Jordan,0.3911559747312948,3,1,ar,MED,Asia
 'b426d014da',extremes,Drought,#edc291,edo,موجة الجفاف في تنزانيا,2026-04-22T05:13:00+00:00,Tanzania,0.3890803770329721,2,1,ar,SEAF,Africa
 '68b41522c2',extremes,Drought,#edc291,edo,جفاف اليمن,2026-04-05T05:01:00+00:00,Yemen,0.3884512271960896,2,1,ar,ARP,Asia
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,الاعصار,2026-05-03T05:43:00+00:00,,0.3879020986120892,0,1,ar,,
 'cd4f522432',extremes,Drought,#edc291,edo,موجة جفاف جزر القمر,2026-04-04T04:30:00+00:00,Comoros,0.3874342545939087,3,1,ar,ESAF,Africa
 '6645064ba6',extremes,Precipitation,#d60d2b,wmo,مطر بسكرة,2026-04-23T05:16:00+00:00,Algeria,0.386512103880499,4,1,ar,SAH,Africa
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,موجة الحر الجزائر,2026-04-21T05:15:00+00:00,Algeria,0.3864026070156277,4,1,ar,SAH,Africa
