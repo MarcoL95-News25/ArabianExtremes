@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8465f983bf',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-05-08T05:16:00+00:00,Algeria,0.748092198200883,0,1,ar,SAH,Africa
-'450e006e61',extremes,Drought,#edc291,edo,جفاف العراق,2026-04-30T05:46:00+00:00,Iraq,0.5633906331893052,0,1,ar,WCA,Asia
+'8465f983bf',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-05-08T05:16:00+00:00,Algeria,0.6358783684707505,1,1,ar,SAH,Africa
 'ccce84ab75',extremes,Drought,#edc291,edo,قلة الأمطار مصر,2026-04-17T05:16:00+00:00,Egypt,0.4945265708577289,2,1,ar,SAH,Africa
 'a037e54a9b',extremes,Drought,#edc291,edo,جفاف تونس,2026-04-22T05:13:00+00:00,Tunisia,0.4883478857523484,2,1,ar,MED,Africa
 '4e05f7cf69',extremes,Precipitation,#d60d2b,wmo,هطول الامطار تشاد,2026-04-08T05:01:00+00:00,Chad,0.4875828104779131,2,1,ar,SAH,Africa
@@ -8,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aab7909052',extremes,Fog,#d60d2b,wmo,ضباب إسرائيل,2026-04-25T05:00:00+00:00,Israel,0.4858985976925399,2,1,ar,MED,Asia
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,الجراد,2026-04-06T05:11:00+00:00,,0.4842818013961516,1,2,ar,,
 '95694d19cf',extremes,Earthquake,#870007,usgs,زلزال اليمن,2026-05-04T05:49:00+00:00,Yemen,0.4797128541837894,2,1,ar,NEAF,Africa
+'450e006e61',extremes,Drought,#edc291,edo,جفاف العراق,2026-04-30T05:46:00+00:00,Iraq,0.47903205321090936,1,1,ar,WCA,Asia
 '69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2026-04-17T05:16:00+00:00,Iraq,0.4769819016001225,3,2,ar,WCA,Asia
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,هبوب,2026-04-07T04:58:00+00:00,,0.4766814980506955,2,2,ar,,
 'a29729e148',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في إسرائيل,2026-04-22T05:13:00+00:00,Israel,0.4731332647024293,2,1,ar,MED,Asia
@@ -163,13 +163,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c26d713f2',extremes,Drought,#edc291,edo,قلة الأمطار في إريتريا,2026-04-24T05:22:00+00:00,Eritrea,0.3204028584345457,2,1,ar,SAH,Africa
 '1cee83f69e',extremes,Drought,#edc291,edo,جفاف البحرين,2026-04-17T05:16:00+00:00,Bahrain,0.3196948104474346,2,1,ar,ARP,Asia
 '21d718a923',extremes,Drought,#edc291,edo,جفاف البحرين,2026-04-14T05:11:00+00:00,Bahrain,0.3196120626016067,2,1,ar,ARP,Asia
-'a0fea22150',extremes,Heat Wave,#c40202,acwe,موجة الحر نيو ساوث ويلز,2026-05-04T05:50:00+00:00,Australia,0.31942244998548996,0,1,ar,EAU,Oceania
+'a0fea22150',extremes,Heat Wave,#c40202,acwe,موجة الحر نيو ساوث ويلز,2026-05-04T05:50:00+00:00,Australia,0.3194224499854899,0,1,ar,EAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,موجة رطبة نيو ساوث ويلز,2026-05-04T05:50:00+00:00,Australia,0.3194195364855966,0,1,ar,EAU,Oceania
-'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,موجة دافئة في أستراليا,2026-05-04T05:50:00+00:00,Australia,0.31925916326850523,0,1,ar,CAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,موجة دافئة في أستراليا,2026-05-04T05:50:00+00:00,Australia,0.3192591632685052,0,1,ar,CAU,Oceania
 '2595e5c49a',extremes,Flood,#030ba1,acwe,ارتفاع منسوب المياه في أستراليا,2026-05-04T05:50:00+00:00,Australia,0.3190603070316364,0,1,ar,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,شتاء معتدل غرب أستراليا,2026-05-04T05:50:00+00:00,Australia,0.3189919128310656,0,1,ar,CAU,Oceania
 'b213984cd8',extremes,Drought,#edc291,edo,جفاف الصحراء الغربية,2026-04-24T05:22:00+00:00,Western Sahara,0.3186388364313658,2,1,ar,SAH,Africa
-'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,العاصفة الاستوائية هاجوبيت,2026-05-07T05:46:00+00:00,,0.31831542733732116,0,1,ar,EPO,Pacific Ocean
+'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,العاصفة الاستوائية هاجوبيت,2026-05-07T05:46:00+00:00,,0.3183154273373211,0,1,ar,EPO,Pacific Ocean
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,موجة رطبة غرب أستراليا,2026-05-04T05:50:00+00:00,Australia,0.3179863264112316,0,1,ar,CAU,Oceania
 '8bc78a3be4',extremes,Drought,#edc291,edo,قلة الأمطار في لبنان,2026-04-17T05:16:00+00:00,Lebanon,0.3178376498345965,2,1,ar,MED,Asia
 '08593da076',extremes,Drought,#edc291,edo,موجة الجفاف في موريتانيا,2026-05-06T05:43:00+00:00,Mauritania,0.3145359147350093,2,1,ar,SAH,Africa
