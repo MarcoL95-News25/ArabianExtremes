@@ -10,9 +10,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b20a18bcb',extremes,Drought,#edc291,edo,جفاف المغرب,2026-05-15T06:09:00+00:00,Morocco,0.4622165175480922,2,1,ar,MED,Africa
 '556f49f375',extremes,Drought,#edc291,edo,قلة الأمطار في العراق,2026-05-16T05:40:00+00:00,Iraq,0.459721112372854,3,1,ar,WCA,Asia
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,عاصفة قطر,2026-05-19T06:33:00+00:00,Qatar,0.4583258114091632,3,1,ar,ARP,Asia
-'80d50b76c6',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في المملكة العربية السعودية,2026-05-18T06:38:00+00:00,Saudi Arabia,0.45758679824648957,1,1,ar,ARP,Asia
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في المملكة العربية السعودية,2026-05-18T06:38:00+00:00,Saudi Arabia,0.4575867982464895,1,1,ar,ARP,Asia
 'b426d014da',extremes,Drought,#edc291,edo,موجة الجفاف في تنزانيا,2026-05-20T06:33:00+00:00,Tanzania,0.4568036680150845,0,1,ar,SEAF,Africa
-'69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2026-05-10T05:51:00+00:00,Iraq,0.45679348873259434,2,1,ar,WCA,Asia
+'69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2026-05-10T05:51:00+00:00,Iraq,0.4567934887325943,2,1,ar,WCA,Asia
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2026-05-19T06:33:00+00:00,Algeria,0.4565448133542272,3,1,ar,SAH,Africa
 'c16aa46f44',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف بليدة,2026-05-02T05:24:00+00:00,Algeria,0.4530296368667227,3,1,ar,SAH,Africa
 '596a132822',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف مملكة البحرين الشرطة الجنائية بها,2026-05-22T06:32:00+00:00,Bahrain,0.4521241593050639,3,1,ar,ARP,Asia
@@ -152,9 +152,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b64fcbc0c4',extremes,Drought,#edc291,edo,جفاف سوريا,2026-04-26T05:25:00+00:00,Syria,0.3129894005999177,3,1,ar,MED,Asia
 '6c34512524',extremes,Drought,#edc291,edo,قلة الأمطار في سري لانكا,2026-05-16T05:40:00+00:00,Sri Lanka,0.3116385734827698,0,1,ar,BOB,Asia
 '4d446959e2',extremes,Drought,#edc291,edo,الجفاف في إستونيا,2026-05-04T05:50:00+00:00,Estonia,0.3115664557581487,0,1,ar,NEU,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,موجة الجفاف في مدغشقر,2026-05-07T05:46:00+00:00,Madagascar,0.31111155251594824,0,1,ar,MDG,Africa
+'6c11585835',extremes,Drought,#edc291,edo,جفاف ليتوانيا,2026-05-07T05:46:00+00:00,Lithuania,0.31093799289945473,0,1,ar,WCE,Europe
+'96f0408faf',extremes,Drought,#edc291,edo,جفاف لاتفيا,2026-05-04T05:50:00+00:00,Latvia,0.31081897383572543,0,1,ar,WCE,Europe
 '9f0423d739',extremes,Drought,#edc291,random,الجفاف,2026-05-10T05:51:00+00:00,,0.3106545134583572,2,1,ar,,
 '0d9db7ec5c',extremes,Drought,#edc291,edo,موجة الجفاف في إسرائيل,2026-04-28T05:45:00+00:00,Israel,0.3087850634477463,3,1,ar,MED,Asia
 '70bfa35e90',extremes,Drought,#edc291,edo,موجة الجفاف في الجزائر,2026-04-24T05:22:00+00:00,Algeria,0.308511979098779,3,1,ar,SAH,Africa
+'9f05eaaf90',extremes,Drought,#edc291,edo,موجة الجفاف في أيسلندا,2026-05-21T06:35:00+00:00,Iceland,0.3083985333345354,0,1,ar,GIC,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,جفاف التشيك,2026-05-06T05:43:00+00:00,Czechia,0.3082675137688788,0,1,ar,WCE,Europe
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الإكوادور,2026-05-23T05:53:00+00:00,Ecuador,0.30740102528815866,0,1,ar,NWS,South-America
+'aaee78223c',extremes,Precipitation,#d60d2b,wmo,منطقة هطول الأمطار الساحلية وما بين الأقاليم,2026-05-23T05:53:00+00:00,Ecuador,0.30701566838853356,0,1,ar,NWS,South-America
+'e4d5bf1603',extremes,Drought,#edc291,edo,جفاف المجر,2026-05-06T05:43:00+00:00,Hungary,0.30545119327208337,0,1,ar,WCE,Europe
+'ce4931e51e',extremes,Flood,#030ba1,wmo,فيضانات مفاجئة في جنوب أستراليا، كوبر كريك,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,ar,CAU,Oceania
+'9e020e244e',extremes,Drought,#edc291,edo,جفاف بولندا,2026-05-23T05:53:00+00:00,Poland,0.30423082234426757,0,1,ar,WCE,Europe
 'b47766f171',extremes,Drought,#edc291,edo,جفاف إسرائيل,2026-05-01T05:54:00+00:00,Israel,0.3039608677110447,2,1,ar,MED,Asia
 '229a544839',extremes,Precipitation,#d60d2b,wmo,هطول أمطار غزيرة على مدينة كيب تاون مدينة كيب تاون,2026-05-11T06:14:00+00:00,South Africa,0.3028267128427571,1,1,ar,WSAF,Africa
 '464c05f22e',extremes,Precipitation,#d60d2b,wmo,مدينة المطر كيب تاون مدينة كيب تاون,2026-05-13T06:03:00+00:00,South Africa,0.3027856247284159,0,1,ar,WSAF,Africa
