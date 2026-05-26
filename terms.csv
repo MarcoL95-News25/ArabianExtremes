@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية ليبيا,2026-05-25T06:53:00+00:00,Libya,0.5344367567428265,2,1,ar,SAH,Africa
 'd58225a8cf',extremes,Storm,#b3b2b1,wmo,عاصفة المنيا,2026-05-25T06:53:00+00:00,Algeria,0.5304859172824866,2,1,ar,SAH,Africa
-'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2026-05-25T06:53:00+00:00,Morocco,0.5088619845642544,1,1,ar,MED,Africa
+'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2026-05-25T06:53:00+00:00,Morocco,0.5088619845642544,2,1,ar,MED,Africa
 'cd4f522432',extremes,Drought,#edc291,edo,موجة جفاف جزر القمر,2026-05-19T06:33:00+00:00,Comoros,0.5029346069930091,1,1,ar,ESAF,Africa
 '79079cfee6',extremes,Drought,#edc291,edo,جفاف تشاد,2026-05-16T05:40:00+00:00,Chad,0.4830418060373381,1,1,ar,SAH,Africa
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف قطر,2026-05-19T06:33:00+00:00,Qatar,0.462518475858852,3,1,ar,ARP,Asia
@@ -59,7 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9531cc816',extremes,Drought,#edc291,edo,جفاف قطر,2026-05-02T05:24:00+00:00,Qatar,0.3787849824367469,4,1,ar,ARP,Asia
 'cc89eef995',extremes,Drought,#edc291,edo,موجة الجفاف في لبنان,2026-05-14T06:02:00+00:00,Lebanon,0.3780304310117542,3,1,ar,MED,Asia
 '945465874b',extremes,Drought,#edc291,edo,الجفاف جيبوتي,2026-05-11T06:14:00+00:00,Djibouti,0.3755852063609352,2,1,ar,NEAF,Africa
-'e188f4e183',extremes,Storm,#b3b2b1,wmo,عاصفة تنزانيا,2026-05-20T06:33:00+00:00,Tanzania,0.37491203437046605,3,1,ar,SEAF,Africa
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,عاصفة تنزانيا,2026-05-20T06:33:00+00:00,Tanzania,0.374912034370466,3,1,ar,SEAF,Africa
 '5577bbdf6e',extremes,Drought,#edc291,edo,جفاف سوريا,2026-05-11T06:14:00+00:00,Syria,0.3748020355098639,3,1,ar,MED,Asia
 '5db1bd15bf',extremes,Thunderstorm,#53785a,wmo,حائل صيدا,2026-05-09T05:36:00+00:00,Algeria,0.3730633674634497,4,1,ar,SAH,Africa
 'be14fe9174',extremes,Thunderstorm,#53785a,wmo,حائل بشار,2026-05-15T06:09:00+00:00,Algeria,0.3713505549957387,4,1,ar,SAH,Africa
@@ -154,9 +154,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b0bfa28bb',extremes,Fog,#d60d2b,wmo,مدخل بركة الضباب,2026-05-10T05:51:00+00:00,Canada,0.3024922340254062,0,1,ar,NEN,North-America
 'ec65204cd5',extremes,Drought,#edc291,edo,جفاف لبنان,2026-05-06T05:43:00+00:00,Lebanon,0.3007398457708203,3,1,ar,MED,Asia
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,ثلج,2026-05-10T05:51:00+00:00,,0.298716429096878,1,1,ar,,
-'355605856d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار تشاد,2026-05-21T06:35:00+00:00,Chad,0.29687956357552386,5,1,ar,SAH,Africa
+'355605856d',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار تشاد,2026-05-21T06:35:00+00:00,Chad,0.2968795635755238,5,1,ar,SAH,Africa
 '95694d19cf',extremes,Earthquake,#870007,usgs,زلزال اليمن,2026-05-04T05:49:00+00:00,Yemen,0.2946036565756195,5,1,ar,NEAF,Africa
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,أدنى درجة حرارة دنيا,2026-05-14T06:02:00+00:00,,0.29295100307561855,1,1,ar,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,أدنى درجة حرارة دنيا,2026-05-14T06:02:00+00:00,,0.2929510030756185,1,1,ar,,
 '0e8f392ce9',extremes,Drought,#edc291,edo,جفاف ليبيا,2026-04-28T05:45:00+00:00,Libya,0.2918246426614863,3,1,ar,SAH,Africa
 'fa761481b5',extremes,Drought,#edc291,edo,موجة الجفاف في الإمارات العربية المتحدة,2026-04-29T05:40:00+00:00,United Arab Emirates,0.2912303104654874,4,1,ar,ARP,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,الجليد البحري في القطب الشمالي,2026-05-06T05:43:00+00:00,,0.2895090567343825,2,1,ar,,
@@ -409,4 +409,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,المطر الأرجنتين,2026-04-28T05:45:00+00:00,Argentina,0.1886933510640236,3,1,ar,SES,South-America
 '8a654473a4',extremes,Drought,#edc291,edo,الجفاف في سان تومي وبرينسيبي,2026-05-01T05:54:00+00:00,Sao Tome and Principe,0.1875245033339623,3,1,ar,WAF,Africa
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,ثلج الأرجنتين,2026-05-01T05:54:00+00:00,Argentina,0.1866750830729064,3,1,ar,SES,South-America
-'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,موجة الحر إثيوبيا,2026-05-14T06:02:00+00:00,Ethiopia,0.18594429867372944,3,1,ar,NEAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,موجة الحر إثيوبيا,2026-05-14T06:02:00+00:00,Ethiopia,0.1859442986737294,3,1,ar,NEAF,Africa
