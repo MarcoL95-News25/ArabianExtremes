@@ -6,11 +6,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec708f5a0b',extremes,Earthquake,#870007,usgs,زلزال المغرب,2026-08-04T05:31:00+00:00,Morocco,0.5196627285170305,1,1,ar,MED,Africa
 'cdf60d58e5',extremes,Drought,#edc291,edo,الجفاف في إريتريا,2026-07-30T05:24:00+00:00,Eritrea,0.5131076984794678,1,1,ar,SAH,Africa
 '669b358a51',extremes,Drought,#edc291,edo,قلة الأمطار الجزائر,2026-08-01T05:42:00+00:00,Algeria,0.5127770744388656,1,1,ar,SAH,Africa
-'68b41522c2',extremes,Drought,#edc291,edo,جفاف اليمن,2026-07-26T05:46:00+00:00,Yemen,0.48666918279121496,1,1,ar,ARP,Asia
+'68b41522c2',extremes,Drought,#edc291,edo,جفاف اليمن,2026-07-26T05:46:00+00:00,Yemen,0.4866691827912149,1,1,ar,ARP,Asia
 '1db33a60d4',extremes,Heat Wave,#c40202,wmo,موجة حارة في معظم أنحاء مصر,2026-07-31T05:51:00+00:00,Egypt,0.4825539051892072,4,1,ar,SAH,Africa
 '3e863a900a',extremes,Drought,#edc291,edo,الجفاف موريتانيا,2026-08-01T05:42:00+00:00,Mauritania,0.4819137827057195,2,1,ar,SAH,Africa
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,عرام العاصفة نعمة,2026-07-29T05:37:00+00:00,Algeria,0.4615718399904562,3,1,ar,SAH,Africa
-'b18e6444ed',extremes,Drought,#edc291,edo,قلة الأمطار في السودان,2026-07-31T05:51:00+00:00,Sudan,0.46084022521279466,1,1,ar,SAH,Africa
+'b18e6444ed',extremes,Drought,#edc291,edo,قلة الأمطار في السودان,2026-07-31T05:51:00+00:00,Sudan,0.4608402252127946,1,1,ar,SAH,Africa
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في المملكة العربية السعودية,2026-07-14T05:14:00+00:00,Saudi Arabia,0.4596746742252126,3,1,ar,ARP,Asia
 '6fb1e93945',extremes,Storm,#b3b2b1,wmo,عاصفة نعمة,2026-07-11T05:27:00+00:00,Algeria,0.4563575852216996,3,1,ar,SAH,Africa
 'cb9bd733f7',extremes,Heat Wave,#c40202,wmo,موجة حر الغور والعقبة,2026-07-30T05:24:00+00:00,Jordan,0.4559605393731407,3,1,ar,MED,Asia
@@ -79,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bc78a3be4',extremes,Drought,#edc291,edo,قلة الأمطار في لبنان,2026-07-11T05:27:00+00:00,Lebanon,0.3728426959068327,3,1,ar,MED,Asia
 '766190540a',extremes,Storm,#b3b2b1,wmo,العواصف تنزانيا,2026-07-25T05:29:00+00:00,Tanzania,0.3726057902723196,3,1,ar,SEAF,Africa
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,الحرارة,2026-07-06T06:52:00+00:00,,0.372074134648318,2,2,ar,,
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,حرائق الغابات,2026-07-11T05:26:00+00:00,,0.37200004317875,2,2,ar,,
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,عاصفة تنزانيا,2026-07-06T06:52:00+00:00,Tanzania,0.3686852538673536,3,1,ar,SEAF,Africa
 '700728d746',extremes,Drought,#edc291,edo,موجة جفاف في اليمن,2026-07-21T05:36:00+00:00,Yemen,0.3669099936687745,2,1,ar,ARP,Asia
 'a35eb29c6d',extremes,Heat Wave,#c40202,wmo,موجة الحر في جبل النقب,2026-08-02T05:42:00+00:00,Israel,0.3667921104411311,2,1,ar,MED,Asia
@@ -98,7 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f59e5a15a8',extremes,Drought,#edc291,edo,قحط قطر,2026-07-05T06:25:00+00:00,Qatar,0.348184231820251,3,1,ar,ARP,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,برد,2026-07-17T05:27:00+00:00,,0.3477475110239658,1,2,ar,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,العاصفة الاستوائية,2026-08-01T05:41:00+00:00,,0.3477268592451679,2,1,ar,,
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,انخفاض درجات الحرارة,2026-08-04T05:31:00+00:00,,0.34770378010616193,1,1,ar,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,انخفاض درجات الحرارة,2026-08-04T05:31:00+00:00,,0.3477037801061619,1,1,ar,,
 'c95786f28e',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في وادي كيناروت,2026-07-30T05:24:00+00:00,Israel,0.347171978235356,4,1,ar,MED,Asia
 'ec65204cd5',extremes,Drought,#edc291,edo,جفاف لبنان,2026-07-30T05:24:00+00:00,Lebanon,0.3454212933930909,2,1,ar,MED,Asia
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,موجة الحر في إسرائيل,2026-07-11T05:27:00+00:00,Israel,0.3442045680843455,4,1,ar,MED,Asia
@@ -110,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08593da076',extremes,Drought,#edc291,edo,موجة الجفاف في موريتانيا,2026-07-09T06:27:00+00:00,Mauritania,0.3380887410364349,4,1,ar,SAH,Africa
 '4b482a6729',extremes,Precipitation,#d60d2b,wmo,هطول الامطار منطقة منطقة جازان فرسان,2026-07-18T05:10:00+00:00,Saudi Arabia,0.3363423618287362,4,1,ar,ARP,Asia
 '283502e4c1',extremes,Heat Wave,#c40202,wmo,موجة الحر الطارف,2026-07-19T05:37:00+00:00,Algeria,0.3353859379923968,5,1,ar,SAH,Africa
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,حرائق الغابات,2026-07-11T05:26:00+00:00,,0.3342173483686042,3,2,ar,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,الإعصار,2026-07-29T05:37:00+00:00,,0.3333254987347335,2,1,ar,,
 'de55985e54',extremes,Earthquake,#870007,usgs,زلزال حديبو,2026-07-19T05:37:00+00:00,Yemen,0.3327543955690326,5,1,ar,ARS,Indian Ocean
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,أمطار السعودية,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3322802481881563,5,1,ar,ARP,Asia
@@ -120,11 +120,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1cd4e63d4',extremes,Precipitation,#d60d2b,wmo,هطول منطقة منطقة مكة المكرمة الطائف,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3307970586822142,5,1,ar,ARP,Asia
 'a4e234f73a',extremes,Precipitation,#d60d2b,wmo,أمطار منطقة منطقة نجران شرورة,2026-07-22T05:35:00+00:00,Saudi Arabia,0.3294495835502619,4,1,ar,ARP,Asia
 'c16aa46f44',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف بليدة,2026-07-22T05:35:00+00:00,Algeria,0.3290896259203622,5,1,ar,SAH,Africa
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,ولادة جبل الجليد,2026-07-26T05:46:00+00:00,,0.32894014898830304,1,1,ar,,
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,ولادة جبل الجليد,2026-07-26T05:46:00+00:00,,0.328940148988303,1,1,ar,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,عاصفة ثلجية,2026-07-12T05:43:00+00:00,,0.3276207897385138,3,1,ar,,
 'a9531cc816',extremes,Drought,#edc291,edo,موجة جفاف قطر,2026-07-11T05:27:00+00:00,Qatar,0.3269876107659571,3,1,ar,ARP,Asia
 '45278c4de3',extremes,Drought,#edc291,edo,موجة الجفاف في الصومال,2026-07-12T05:43:00+00:00,Somalia,0.3266258704501763,3,1,ar,NEAF,Africa
-'82d648b882',extremes,Drought,#edc291,random,القحط,2026-08-04T05:31:00+00:00,,0.32412236455817883,1,1,ar,,
+'82d648b882',extremes,Drought,#edc291,random,القحط,2026-08-04T05:31:00+00:00,,0.3241223645581788,1,1,ar,,
 '5876f74566',extremes,Drought,#edc291,edo,جفاف الأردن,2026-07-15T05:15:00+00:00,Jordan,0.3200798237846163,3,1,ar,MED,Asia
 '086d1df094',extremes,Drought,#edc291,edo,جفاف المملكة العربية السعودية,2026-07-28T05:31:00+00:00,Saudi Arabia,0.3182807956905752,2,1,ar,ARP,Asia
 '15223de265',extremes,Drought,#edc291,edo,موجة الجفاف في البحرين,2026-07-22T05:35:00+00:00,Bahrain,0.3181378760804072,2,1,ar,ARP,Asia
@@ -175,9 +175,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db2fe27b15',extremes,Drought,#edc291,edo,موجة الجفاف في الصحراء الغربية,2026-07-10T06:27:00+00:00,Western Sahara,0.284363721398058,4,1,ar,SAH,Africa
 '3d737b806f',extremes,Heat Wave,#c40202,wmo,موجة الحر جبل الكرمل.,2026-07-20T05:54:00+00:00,Israel,0.2842217692082694,4,1,ar,MED,Asia
 'd99be7f2ac',extremes,Drought,#edc291,edo,قلة المطر تشاد,2026-07-16T05:25:00+00:00,Chad,0.2839311284671854,2,1,ar,SAH,Africa
-'84febdd06c',extremes,Thunderstorm,#53785a,random,عاصفة رعدية,2026-07-28T05:30:00+00:00,,0.2838416066069671,1,1,ar,,
 'b47766f171',extremes,Drought,#edc291,edo,جفاف إسرائيل,2026-07-09T06:27:00+00:00,Israel,0.2827196648911242,2,1,ar,MED,Asia
-'a2fb8c843a',extremes,Drought,#edc291,edo,جفاف إريتريا,2026-08-02T05:42:00+00:00,Eritrea,0.28248692864864144,2,1,ar,SAH,Africa
+'a2fb8c843a',extremes,Drought,#edc291,edo,جفاف إريتريا,2026-08-02T05:42:00+00:00,Eritrea,0.2824869286486414,2,1,ar,SAH,Africa
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في المملكة العربية السعودية,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2824728992733042,6,1,ar,ARP,Asia
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,عاصفة الكويت,2026-07-16T05:25:00+00:00,Kuwait,0.2823297622924791,7,1,ar,ARP,Asia
 '60c6411407',extremes,Drought,#edc291,edo,جفاف العراق,2026-07-13T05:53:00+00:00,Iraq,0.2819664737272735,5,1,ar,WCA,Asia
@@ -311,6 +310,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,الانخفاضات الزئبقية,2026-07-20T05:54:00+00:00,,0.2459139569613972,2,1,ar,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,تعويذة رطبة,2026-07-13T05:53:00+00:00,,0.244013058528433,2,1,ar,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,سجل البرد,2026-07-07T06:30:00+00:00,,0.2418196068301396,3,1,ar,,
+'84febdd06c',extremes,Thunderstorm,#53785a,random,عاصفة رعدية,2026-07-28T05:30:00+00:00,,0.24126536561592204,2,1,ar,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,طوف الجليد,2026-07-23T05:39:00+00:00,,0.2405923194100769,2,1,ar,,
 'c948617fef',extremes,Heat Wave,#c40202,random,التعرض للحرارة الشديدة,2026-07-10T06:27:00+00:00,,0.2371432847301851,2,1,ar,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,المطر الغزير,2026-07-25T05:28:00+00:00,,0.2365599636133023,2,1,ar,,
