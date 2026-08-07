@@ -1,14 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'33355e5510',extremes,Thunderstorm,#53785a,wmo,طقس شديد الجزائر,2026-08-06T05:33:00+00:00,Algeria,0.7067906418580832,0,1,ar,SAH,Africa
-'f6ff301646',extremes,Drought,#edc291,edo,جفاف الصومال,2026-07-29T05:38:00+00:00,Somalia,0.6270960633806955,0,1,ar,NEAF,Africa
-'e188f4e183',extremes,Storm,#b3b2b1,wmo,عاصفة تنزانيا,2026-07-31T05:51:00+00:00,Tanzania,0.6125629727032321,0,1,ar,SEAF,Africa
-'1d6d06a20d',extremes,Earthquake,#870007,usgs,زلزال السويس,2026-08-06T05:33:00+00:00,Egypt,0.5926757245608025,0,1,ar,MED,Africa
+'33355e5510',extremes,Thunderstorm,#53785a,wmo,طقس شديد الجزائر,2026-08-06T05:33:00+00:00,Algeria,0.6007720455793707,1,1,ar,SAH,Africa
 'a43b0e65ae',extremes,Earthquake,#870007,usgs,زلزال ميدلت,2026-08-06T05:33:00+00:00,Morocco,0.5731737050585194,0,1,ar,MED,Africa
 '6a1155b527',extremes,Drought,#edc291,edo,قلة الأمطار في البحرين,2026-08-01T05:42:00+00:00,Bahrain,0.5731289054718602,0,1,ar,ARP,Asia
 '08593da076',extremes,Drought,#edc291,edo,موجة الجفاف في موريتانيا,2026-07-30T05:24:00+00:00,Mauritania,0.5429552043868279,0,1,ar,SAH,Africa
+'f6ff301646',extremes,Drought,#edc291,edo,جفاف الصومال,2026-07-29T05:38:00+00:00,Somalia,0.5330316538735911,1,1,ar,NEAF,Africa
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في المملكة العربية السعودية,2026-08-04T05:32:00+00:00,Saudi Arabia,0.5223125193816249,2,1,ar,ARP,Asia
 '209884e08d',extremes,Thunderstorm,#53785a,wmo,حائل الجزائر,2026-08-05T05:31:00+00:00,Algeria,0.5208090343932955,2,1,ar,SAH,Africa
-'db2fe27b15',extremes,Drought,#edc291,edo,موجة الجفاف في الصحراء الغربية,2026-07-31T05:51:00+00:00,Western Sahara,0.47642468249577297,0,1,ar,SAH,Africa
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,عاصفة تنزانيا,2026-07-31T05:51:00+00:00,Tanzania,0.5206785267977473,1,1,ar,SEAF,Africa
+'1d6d06a20d',extremes,Earthquake,#870007,usgs,زلزال السويس,2026-08-06T05:33:00+00:00,Egypt,0.5040743958766821,1,1,ar,MED,Africa
+'db2fe27b15',extremes,Drought,#edc291,edo,موجة الجفاف في الصحراء الغربية,2026-07-31T05:51:00+00:00,Western Sahara,0.4764246824957729,0,1,ar,SAH,Africa
 '23b7eff5b5',extremes,Earthquake,#870007,usgs,زلزال توكار,2026-08-02T05:42:00+00:00,Sudan,0.4634587588899159,2,1,ar,SAH,Africa
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,عرام العاصفة نعمة,2026-07-29T05:37:00+00:00,Algeria,0.4615718399904562,3,1,ar,SAH,Africa
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في المملكة العربية السعودية,2026-07-14T05:14:00+00:00,Saudi Arabia,0.4596746742252126,3,1,ar,ARP,Asia
@@ -21,7 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c81b38fd83',extremes,Precipitation,#d60d2b,wmo,المطر الغزير النعامة,2026-07-31T05:51:00+00:00,Algeria,0.4531302499881195,3,1,ar,SAH,Africa
 '8e65b26942',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الطارف,2026-07-27T06:05:00+00:00,Algeria,0.4528508044206658,3,1,ar,SAH,Africa
 '2d5de088f9',extremes,Precipitation,#d60d2b,wmo,مطر البياض,2026-07-30T05:24:00+00:00,Algeria,0.4523020458713246,3,1,ar,SAH,Africa
-'023403ed71',extremes,Drought,#edc291,edo,جفاف إسرائيل,2026-08-03T05:58:00+00:00,Israel,0.45178940691416775,0,1,ar,MED,Asia
+'023403ed71',extremes,Drought,#edc291,edo,جفاف إسرائيل,2026-08-03T05:58:00+00:00,Israel,0.4517894069141677,0,1,ar,MED,Asia
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,القبة الحرارية,2026-07-22T05:35:00+00:00,,0.4453923940349502,3,2,ar,,
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,عاصفة إسرائيل,2026-07-14T05:14:00+00:00,Israel,0.4424082301874419,3,1,ar,MED,Asia
 'cdf60d58e5',extremes,Drought,#edc291,edo,الجفاف في إريتريا,2026-07-30T05:24:00+00:00,Eritrea,0.4361415437075476,2,1,ar,SAH,Africa
