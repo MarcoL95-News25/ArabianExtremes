@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'cd4f522432',extremes,Drought,#edc291,edo,موجة جفاف جزر القمر,2026-08-20T03:26:00+00:00,Comoros,0.7388555247608131,0,1,ar,ESAF,Africa
+'86f2c8cde8',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية تبسة,2026-08-30T08:30:00+00:00,Algeria,0.6904901381373826,0,1,ar,SAH,Africa
+'e762488b7b',extremes,Earthquake,#870007,usgs,زلزال كالولا,2026-08-29T09:18:00+00:00,Somalia,0.662922311069985,0,1,ar,NEAF,Africa
+'0740ada65c',extremes,Heat Wave,#c40202,wmo,موجة الحر جنوب صحراء يهودا البحر الميت,2026-08-16T03:28:00+00:00,Israel,0.6566962723165307,0,1,ar,MED,Asia
+'630b164795',extremes,Wildfire,#d60d2b,meteo,حرائق الغابات في إسرائيل,2026-08-28T14:32:00+00:00,Israel,0.6470053503546648,0,1,ar,MED,Asia
+'08593da076',extremes,Drought,#edc291,edo,موجة الجفاف في موريتانيا,2026-08-24T03:32:00+00:00,Mauritania,0.6466283507136358,0,1,ar,SAH,Africa
+'25f4501714',extremes,Drought,#edc291,edo,قلة الأمطار موريتانيا,2026-08-17T03:28:00+00:00,Mauritania,0.6383791439614293,0,1,ar,SAH,Africa
+'64f802ddf5',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان الطيبة غير متوفر,2026-08-15T03:13:00+00:00,Lebanon,0.6379202072596908,0,1,ar,MED,Asia
+'2e475a7f24',extremes,Heat Wave,#c40202,wmo,موجة الحر وادي الحولة,2026-08-30T08:30:00+00:00,Israel,0.6378144361516326,0,1,ar,MED,Asia
+'8ebbd12ae4',extremes,Drought,#edc291,edo,جفاف السودان,2026-08-24T03:32:00+00:00,Sudan,0.6374987849423301,0,1,ar,SAH,Africa
 'f9446ee727',extremes,Drought,#edc291,edo,قلة الأمطار في اليمن,2026-08-19T03:26:00+00:00,Yemen,0.5556685974014418,1,1,ar,ARP,Asia
 'f3d653a8ff',extremes,Drought,#edc291,edo,جفاف جزر القمر,2026-08-12T04:23:00+00:00,Comoros,0.5479533781301499,2,1,ar,ESAF,Africa
 'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة الجزائر,2026-08-28T14:32:00+00:00,Algeria,0.5469412233993382,2,1,ar,SAH,Africa
@@ -6,7 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '863042ed44',extremes,Heat Wave,#c40202,meteo,موجة الحر مصر,2026-08-27T13:00:00+00:00,Egypt,0.5166133314342084,2,1,ar,ARP,Africa
 '5164507b55',extremes,Drought,#edc291,edo,جفاف الكويت,2026-08-19T03:26:00+00:00,Kuwait,0.4919859711706672,2,1,ar,ARP,Asia
 'df6e516080',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس,2026-08-07T11:06:00+00:00,Tunisia,0.4859966204743946,3,1,ar,MED,Africa
-'daed8f4597',extremes,Earthquake,#870007,usgs,زلزال الصومال,2026-08-28T14:31:00+00:00,Somalia,0.48162166738398676,2,1,ar,NEAF,Africa
+'daed8f4597',extremes,Earthquake,#870007,usgs,زلزال الصومال,2026-08-28T14:31:00+00:00,Somalia,0.4816216673839867,2,1,ar,NEAF,Africa
 'db781cebdc',extremes,Drought,#edc291,edo,جفاف المغرب,2026-08-22T03:22:00+00:00,Morocco,0.4766124087223553,2,1,ar,MED,Africa
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,حرائق الغابات الجزائر,2026-08-07T09:56:00+00:00,Algeria,0.4714539773634322,5,1,ar,MED,Africa
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,برد,2026-07-29T05:37:00+00:00,,0.470153588789245,3,2,ar,,
@@ -201,7 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccda78678b',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار منطقة المنطقة الشرقية ذعبلوتن,2026-08-01T05:42:00+00:00,Saudi Arabia,0.3641780982188092,3,1,ar,ARP,Asia
 '73656d5719',extremes,Heat Wave,#c40202,wmo,موجة الحر جبال وادي إسرائيل إيلات,2026-08-05T05:31:00+00:00,Israel,0.3638754402021879,3,1,ar,MED,Asia
 'a0355e35c6',extremes,Wildfire,#d60d2b,effis,حرائق الغابات بن سليمان المغرب,2026-08-20T03:26:00+00:00,Morocco,0.363609777226757,4,1,ar,MED,Africa
-'8aa4e6d97c',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة منطقة منطقة مكة المكرمة القنفذة,2026-08-22T03:22:00+00:00,Saudi Arabia,0.36274447291331313,4,1,ar,ARP,Asia
+'8aa4e6d97c',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة منطقة منطقة مكة المكرمة القنفذة,2026-08-22T03:22:00+00:00,Saudi Arabia,0.3627444729133131,4,1,ar,ARP,Asia
 '3183c60789',extremes,Fog,#d60d2b,wmo,دولة الضباب الكويت,2026-08-11T04:01:00+00:00,Kuwait,0.3610293763976204,4,1,ar,ARP,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,الإعصار,2026-07-29T05:37:00+00:00,,0.3589267339245234,3,2,ar,,
 '056a6c3122',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الأراضي الفلسطينية,2026-08-08T03:51:00+00:00,Palestinian Territory,0.3582379400900227,4,1,ar,MED,Asia
@@ -233,7 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60c6411407',extremes,Drought,#edc291,edo,جفاف العراق,2026-08-05T05:31:00+00:00,Iraq,0.342352822073851,4,1,ar,WCA,Asia
 '3c4aca51d8',extremes,Precipitation,#d60d2b,wmo,هطول منطقة منطقة مكة المكرمة العرضيات,2026-08-24T03:32:00+00:00,Saudi Arabia,0.3418073347984933,4,1,ar,ARP,Asia
 '42ef463b21',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في ميتشرا بيلك المغرب,2026-08-16T03:28:00+00:00,Morocco,0.3404688025438567,4,1,ar,MED,Africa
-'9a7cec8493',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان آل سفيري غ.أ.,2026-08-15T03:13:00+00:00,Lebanon,0.33982614773211983,4,1,ar,MED,Asia
+'9a7cec8493',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان آل سفيري غ.أ.,2026-08-15T03:13:00+00:00,Lebanon,0.3398261477321198,4,1,ar,MED,Asia
 '56d8641f5f',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة منطقة منطقة مكة المكرمة بحرة,2026-08-22T03:22:00+00:00,Saudi Arabia,0.3392915685925443,4,1,ar,ARP,Asia
 '1aa172c8cc',extremes,Thunderstorm,#53785a,wmo,الطقس الشديد البليدة,2026-08-11T04:01:00+00:00,Algeria,0.3387252953932754,4,1,ar,SAH,Africa
 'c3d6eccf81',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في عين الطينة في لبنان,2026-08-15T03:13:00+00:00,Lebanon,0.3383333768341964,5,1,ar,MED,Asia
