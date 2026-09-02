@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في المملكة العربية السعودية,2026-08-24T03:32:00+00:00,Saudi Arabia,0.7356119734120744,0,1,ar,ARP,Asia
+'95694d19cf',extremes,Earthquake,#870007,usgs,زلزال اليمن,2026-09-01T07:57:00+00:00,Yemen,0.7341678288896013,0,1,ar,NEAF,Africa
+'8d65a8b77d',extremes,Wildfire,#d60d2b,effis,حرائق الغابات كونين لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.7236476543686468,0,1,ar,MED,Asia
+'6a1155b527',extremes,Drought,#edc291,edo,قلة الأمطار في البحرين,2026-08-25T03:27:00+00:00,Bahrain,0.7218450889235339,0,1,ar,ARP,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,أمطار السعودية,2026-08-24T03:32:00+00:00,Saudi Arabia,0.7154410012957794,0,1,ar,ARP,Asia
+'1f4d200f80',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان كونين غ.أ.,2026-09-01T07:57:00+00:00,Lebanon,0.7009434766543665,0,1,ar,MED,Asia
+'945465874b',extremes,Drought,#edc291,edo,الجفاف جيبوتي,2026-08-27T13:00:00+00:00,Djibouti,0.6897519460460086,0,1,ar,NEAF,Africa
+'649a6ca414',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان كونين غير متوفر,2026-09-01T07:57:00+00:00,Lebanon,0.6805121682647534,0,1,ar,MED,Asia
+'556f49f375',extremes,Drought,#edc291,edo,قلة الأمطار في العراق,2026-08-15T03:13:00+00:00,Iraq,0.6733436644327513,0,1,ar,WCA,Asia
+'3bb7041ef3',extremes,Heat Wave,#c40202,wmo,موجة الحر في إسرائيل,2026-08-21T03:30:00+00:00,Israel,0.6704605577071074,0,1,ar,MED,Asia
 'a320301f76',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.6583868626554015,2,1,ar,MED,Africa
 'e720d59629',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس غير متوفر غير متوفر,2026-08-27T13:00:00+00:00,Tunisia,0.6534021020911867,1,1,ar,MED,Africa
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,عاصفة قطر,2026-09-01T07:58:00+00:00,Qatar,0.6378658167179876,1,1,ar,ARP,Asia
@@ -9,7 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة في المملكة العربية السعودية,2026-08-24T03:32:00+00:00,Saudi Arabia,0.6299442419530671,1,1,ar,ARP,Asia
 '618cdc01ab',extremes,Earthquake,#870007,usgs,زلزال الغيزة,2026-08-31T08:51:00+00:00,Yemen,0.6269906229658401,1,1,ar,NEAF,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس,2026-08-27T13:00:00+00:00,Tunisia,0.5646899508786268,2,1,ar,MED,Africa
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,الفيضانات,2026-08-02T05:41:00+00:00,,0.49842912837873443,3,3,ar,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,الفيضانات,2026-08-02T05:41:00+00:00,,0.4984291283787344,3,3,ar,,
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,حرائق الغابات الجزائر,2026-08-07T09:56:00+00:00,Algeria,0.4914859557589173,6,2,ar,MED,Africa
 '209884e08d',extremes,Thunderstorm,#53785a,wmo,حائل الجزائر,2026-08-29T09:18:00+00:00,Algeria,0.4657894146685694,3,1,ar,SAH,Africa
 'f3d653a8ff',extremes,Drought,#edc291,edo,جفاف جزر القمر,2026-08-12T04:23:00+00:00,Comoros,0.4657603714106273,3,1,ar,ESAF,Africa
