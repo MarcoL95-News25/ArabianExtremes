@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3ca745d421',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.568718649341589,4,1,ar,MED,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس,2026-08-27T13:00:00+00:00,Tunisia,0.5646899508786268,2,1,ar,MED,Africa
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.5640875074815749,2,1,ar,MED,Africa
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر تونس,2026-08-27T13:00:00+00:00,Tunisia,0.5637378576653418,2,1,ar,MED,Africa
 'a320301f76',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.5592645877907484,5,2,ar,MED,Africa
+'3ca745d421',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.5590109119403507,5,2,ar,MED,Africa
 '29fe9ce080',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان بيت ياهون غ.أ.,2026-09-01T07:57:00+00:00,Lebanon,0.5579055372906307,1,1,ar,MED,Asia
 '3387a2376d',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.5554452002645331,1,1,ar,MED,Asia
 '2a1a5777ed',extremes,Drought,#edc291,edo,جفاف الصحراء الغربية,2026-08-27T13:00:00+00:00,Western Sahara,0.5522347304469509,1,1,ar,SAH,Africa
@@ -51,8 +51,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa761481b5',extremes,Drought,#edc291,edo,موجة الجفاف في الإمارات العربية المتحدة,2026-09-01T07:58:00+00:00,United Arab Emirates,0.4847888936661303,2,1,ar,ARP,Asia
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,موجة الحر في إسرائيل,2026-08-21T03:30:00+00:00,Israel,0.4844077529433851,2,1,ar,MED,Asia
 '50dee15e1b',extremes,Wildfire,#d60d2b,effis,حريق هائل في بيت ياهون لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.482723896219257,2,1,ar,MED,Asia
-'0ca87424f0',extremes,Drought,#edc291,edo,جفاف المغرب,2026-08-28T14:32:00+00:00,Morocco,0.48238241687143885,2,1,ar,MED,Africa
-'b35938a1d7',extremes,Precipitation,#d60d2b,wmo,منطقة المطر منطقة جازان جازان,2026-08-28T14:32:00+00:00,Saudi Arabia,0.48015684167560707,2,1,ar,ARP,Asia
+'0ca87424f0',extremes,Drought,#edc291,edo,جفاف المغرب,2026-08-28T14:32:00+00:00,Morocco,0.4823824168714388,2,1,ar,MED,Africa
+'b35938a1d7',extremes,Precipitation,#d60d2b,wmo,منطقة المطر منطقة جازان جازان,2026-08-28T14:32:00+00:00,Saudi Arabia,0.480156841675607,2,1,ar,ARP,Asia
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.4796288559678627,3,1,ar,MED,Africa
 'e720d59629',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس غير متوفر غير متوفر,2026-08-27T13:00:00+00:00,Tunisia,0.4720830187608824,3,1,ar,MED,Africa
 '209884e08d',extremes,Thunderstorm,#53785a,wmo,حائل الجزائر,2026-08-29T09:18:00+00:00,Algeria,0.4657894146685694,3,1,ar,SAH,Africa
@@ -251,7 +251,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b997972ccd',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان الخيام غ.م.,2026-08-14T04:24:00+00:00,Lebanon,0.3353057272078595,4,1,ar,MED,Asia
 '4b482a6729',extremes,Precipitation,#d60d2b,wmo,هطول الامطار منطقة منطقة جازان فرسان,2026-08-22T03:22:00+00:00,Saudi Arabia,0.3340918470707487,4,1,ar,ARP,Asia
 '655a534d0c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان عين التينة غير متوفر,2026-08-15T03:13:00+00:00,Lebanon,0.3336916914091445,5,1,ar,MED,Asia
-'dd25cffe03',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر تونس,2026-08-07T09:56:00+00:00,Tunisia,0.3336904832057322,4,1,ar,MED,Africa
 '25f4501714',extremes,Drought,#edc291,edo,قلة الأمطار موريتانيا,2026-08-17T03:28:00+00:00,Mauritania,0.3332379030175157,4,1,ar,SAH,Africa
 '31ffdaba57',extremes,Wildfire,#d60d2b,wmo,حرائق الغابات في وادي هولا (وادي كيناروت).,2026-08-12T04:23:00+00:00,Israel,0.3320733068305568,4,1,ar,MED,Asia
 '596a132822',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف مملكة البحرين الشرطة الجنائية بها,2026-08-20T03:26:00+00:00,Bahrain,0.3318222200729698,5,1,ar,ARP,Asia
