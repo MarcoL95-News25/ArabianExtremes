@@ -1,14 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dd25cffe03',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر تونس,2026-08-27T13:00:00+00:00,Tunisia,0.780222485338554,0,1,ar,MED,Africa
-'38656f3f26',extremes,Wildfire,#d60d2b,effis,حرائق الغابات الجزائر غير متوفر غير متوفر,2026-08-27T13:00:00+00:00,Algeria,0.7798839412133179,0,1,ar,MED,Africa
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,أمطار السعودية,2026-08-24T03:32:00+00:00,Saudi Arabia,0.7307732250974212,0,1,ar,ARP,Asia
-'33355e5510',extremes,Thunderstorm,#53785a,wmo,طقس شديد الجزائر,2026-09-05T07:05:00+00:00,Algeria,0.7295283035626938,0,1,ar,SAH,Africa
-'0dfb546a00',extremes,Precipitation,#d60d2b,wmo,منطقة الأمطار منطقة عسير أبها,2026-09-05T07:05:00+00:00,Saudi Arabia,0.7278122493364256,0,1,ar,ARP,Asia
-'1a5e4bce35',extremes,Drought,#edc291,edo,قلة الأمطار الكويت,2026-08-27T13:00:00+00:00,Kuwait,0.6925968547849665,0,1,ar,ARP,Asia
-'e09a5222d3',extremes,Wildfire,#d60d2b,effis,حرائق الغابات الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.6905391293472625,1,1,ar,MED,Africa
 '434b5b8e53',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان بني حيان غ.م.,2026-09-02T07:16:00+00:00,Lebanon,0.6712149370798671,0,1,ar,MED,Asia
 'a11f01de56',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار منطقة منطقة جازان فرسان,2026-09-05T07:05:00+00:00,Saudi Arabia,0.6678994202019628,0,1,ar,ARP,Asia
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر تونس,2026-08-27T13:00:00+00:00,Tunisia,0.6632210090180491,1,1,ar,MED,Africa
+'dd25cffe03',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر تونس,2026-08-27T13:00:00+00:00,Tunisia,0.6631891125377709,1,1,ar,MED,Africa
+'38656f3f26',extremes,Wildfire,#d60d2b,effis,حرائق الغابات الجزائر غير متوفر غير متوفر,2026-08-27T13:00:00+00:00,Algeria,0.6629013500313202,1,1,ar,MED,Africa
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,أمطار السعودية,2026-08-24T03:32:00+00:00,Saudi Arabia,0.6211572413328079,1,1,ar,ARP,Asia
+'33355e5510',extremes,Thunderstorm,#53785a,wmo,طقس شديد الجزائر,2026-09-05T07:05:00+00:00,Algeria,0.6200990580282897,1,1,ar,SAH,Africa
+'0dfb546a00',extremes,Precipitation,#d60d2b,wmo,منطقة الأمطار منطقة عسير أبها,2026-09-05T07:05:00+00:00,Saudi Arabia,0.6186404119359618,1,1,ar,ARP,Asia
+'e09a5222d3',extremes,Wildfire,#d60d2b,effis,حرائق الغابات الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.6128583499451731,2,1,ar,MED,Africa
+'1a5e4bce35',extremes,Drought,#edc291,edo,قلة الأمطار الكويت,2026-08-27T13:00:00+00:00,Kuwait,0.5887073265672215,1,1,ar,ARP,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,موجة الجفاف في الإمارات العربية المتحدة,2026-09-01T07:58:00+00:00,United Arab Emirates,0.4847888936661303,2,1,ar,ARP,Asia
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,موجة الحر في إسرائيل,2026-08-21T03:30:00+00:00,Israel,0.4844077529433851,2,1,ar,MED,Asia
 '0ca87424f0',extremes,Drought,#edc291,edo,جفاف المغرب,2026-08-28T14:32:00+00:00,Morocco,0.4823824168714388,2,1,ar,MED,Africa
@@ -56,58 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '649a6ca414',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان كونين غير متوفر,2026-09-01T07:57:00+00:00,Lebanon,0.4179195353355915,3,1,ar,MED,Asia
 '5fbb451ebf',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان ماركابا غ.أ.,2026-09-02T07:16:00+00:00,Lebanon,0.4137153356311577,3,1,ar,MED,Asia
 '556f49f375',extremes,Drought,#edc291,edo,قلة الأمطار في العراق,2026-08-15T03:13:00+00:00,Iraq,0.4135171779197633,3,1,ar,WCA,Asia
-'5b2f7ef723',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في صرفند لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140310753919,4,1,ar,MED,Asia
-'5400f1e65e',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في كلس سوريا,2026-08-07T11:06:00+00:00,Syria,0.4131140197655629,4,1,ar,MED,Asia
-'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,حرائق الغابات حبوش لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140182979657,4,1,ar,MED,Asia
-'7bc6211e3c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر سوريا,2026-08-07T11:06:00+00:00,Syria,0.4131140159776789,4,1,ar,MED,Asia
-'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات bchatfine لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140102958426,4,1,ar,MED,Asia
-'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,حرائق الغابات المري لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140101132351,4,1,ar,MED,Asia
-'5fc209e2c8',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في عين الجرفة لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140099430888,4,1,ar,MED,Asia
-'53e43a28d5',extremes,Wildfire,#d60d2b,effis,حرائق غابات الكفور في لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140071212107,4,1,ar,MED,Asia
-'71f51c063c',extremes,Wildfire,#d60d2b,effis,حرائق البازوريات في لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131140034146661,4,1,ar,MED,Asia
-'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,حريق الهشيم في النبي يوشيا في لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131139967878109,4,1,ar,MED,Asia
-'2f03e0c694',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر تونس,2026-08-07T09:56:00+00:00,Tunisia,0.4131139922457394,4,1,ar,MED,Africa
-'e7298fae8f',extremes,Wildfire,#d60d2b,effis,حرائق الغابات بتعبورة لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131139797168834,4,1,ar,MED,Asia
-'e2609489f3',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في أنكوني لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4131139053703868,4,1,ar,MED,Asia
-'3efcf61c61',extremes,Wildfire,#d60d2b,effis,حرائق حاروف لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.413113772841676,4,1,ar,MED,Asia
-'1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر الجزائر,2026-08-07T09:56:00+00:00,Algeria,0.4131136033386124,4,1,ar,MED,Africa
-'2d196b98c8',extremes,Wildfire,#d60d2b,effis,حرائق الغابات بالمغرب,2026-08-07T09:56:00+00:00,Morocco,0.4131076046827457,4,1,ar,MED,Africa
-'7aef40d766',extremes,Wildfire,#d60d2b,effis,حرائق الغابات بالمغرب,2026-08-07T09:56:00+00:00,Morocco,0.4131066117405413,4,1,ar,MED,Africa
-'d33e4146b6',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تركيا كيليس غير متوفر,2026-08-07T11:06:00+00:00,Syria,0.4131043369396223,4,1,ar,MED,Asia
-'a23c450be4',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في المغرب باب بيرد غ.م.,2026-08-07T09:56:00+00:00,Morocco,0.4131039419193897,4,1,ar,MED,Africa
-'56c99f5cea',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان نيها غ.أ.,2026-08-07T11:06:00+00:00,Lebanon,0.4131018291332382,4,1,ar,MED,Asia
-'f66335160e',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان عين الجرفة غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4131005853966285,4,1,ar,MED,Asia
-'d0a56df84c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان المري غير متوفر,2026-08-07T11:06:00+00:00,Lebanon,0.4130996136209027,4,1,ar,MED,Asia
-'0c7c458c2c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان النبي يوتشيا غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4130978260560069,4,1,ar,MED,Asia
-'df6e516080',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس,2026-08-07T11:06:00+00:00,Tunisia,0.4130971274032354,4,1,ar,MED,Africa
-'3bd8e103de',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس غير متوفر غير متوفر,2026-08-07T09:56:00+00:00,Tunisia,0.4130969894875113,4,1,ar,MED,Africa
-'2464ad564a',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان النبي يوشيا غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4130959417119815,4,1,ar,MED,Asia
-'7616afd0a2',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان الشرقية غير متوفر,2026-08-07T11:06:00+00:00,Lebanon,0.4130943957022274,4,1,ar,MED,Asia
-'1848856b86',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الجزائر غير متوفر غير متوفر,2026-08-07T09:56:00+00:00,Algeria,0.4130920517183011,4,1,ar,MED,Africa
-'648f46497d',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان حبوش غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.413091174022669,4,1,ar,MED,Asia
-'9f352d30ee',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان ماشا غير متوفر,2026-08-07T11:06:00+00:00,Lebanon,0.4130907084424393,4,1,ar,MED,Asia
-'bd617db6de',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان ماشا غير متوفر,2026-08-07T11:06:00+00:00,Lebanon,0.4130902379920405,4,1,ar,MED,Asia
-'afda8bb534',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان bchatfine n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.4130899228819621,4,1,ar,MED,Asia
-'570b14948a',extremes,Wildfire,#d60d2b,effis,حرائق الغابات المغرب أكنول غ.أ.,2026-08-07T09:56:00+00:00,Morocco,0.4130852962094834,4,1,ar,MED,Africa
-'e9a96833dc',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان بتعبورة غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4130843637801324,4,1,ar,MED,Asia
-'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في تونس غ.م. غير متوفر,2026-08-07T11:06:00+00:00,Tunisia,0.4130821442406828,4,1,ar,MED,Africa
-'273e21ebcc',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في المغرب أزرو غ.أ.,2026-08-07T11:06:00+00:00,Morocco,0.4130818638612359,4,1,ar,MED,Africa
-'068fc9f58f',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان أنكوني غ.أ.,2026-08-07T11:06:00+00:00,Lebanon,0.4130353611932604,4,1,ar,MED,Asia
-'8c8df8fd09',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان مجدل سلم غير متوفر,2026-08-07T11:06:00+00:00,Lebanon,0.4129751082361714,4,1,ar,MED,Asia
-'d71bf78337',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان حارة صيدا غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4129644700078018,4,1,ar,MED,Asia
-'4ba58a5a80',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان مجدل بعنا غير متوفر,2026-08-07T11:06:00+00:00,Lebanon,0.4129479634960387,4,1,ar,MED,Asia
-'28cc54c711',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان مجدل بعنا غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4129222696074278,4,1,ar,MED,Asia
-'8a66cd48ef',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الجزائر غير متوفر غير متوفر,2026-08-07T09:56:00+00:00,Algeria,0.4128420012759448,4,1,ar,MED,Africa
-'b0681c71a1',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان عين بعل غ.م.,2026-08-07T11:06:00+00:00,Lebanon,0.4123267294810162,4,1,ar,MED,Asia
 '69a64e0e6b',extremes,Drought,#edc291,edo,جفاف العراق,2026-08-07T11:06:00+00:00,Iraq,0.4121900892471858,3,1,ar,WCA,Asia
-'a11c9801bd',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في نيحا لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4106089804169635,4,1,ar,MED,Asia
-'159901e108',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4106088540043123,4,1,ar,MED,Asia
-'2106301762',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في حيزوك لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4106087557399831,4,1,ar,MED,Asia
-'77602ad56d',extremes,Wildfire,#d60d2b,effis,حرائق الغابات أكنول المغرب,2026-08-07T09:56:00+00:00,Morocco,0.410608457460165,4,1,ar,MED,Africa
-'f839ef80f1',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في مجدل سلم في لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.410607316492446,4,1,ar,MED,Asia
-'0d4503ee95',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في حارة صيدا لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4106065978793303,4,1,ar,MED,Asia
-'6cf82c3fab',extremes,Wildfire,#d60d2b,effis,حرائق الغابات مجدل بعنا لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4106064625222198,4,1,ar,MED,Asia
-'241f25b23c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في عين بعل لبنان,2026-08-07T11:06:00+00:00,Lebanon,0.4105963576426601,4,1,ar,MED,Asia
 '50dee15e1b',extremes,Wildfire,#d60d2b,effis,حريق هائل في بيت ياهون لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.4103153117863684,3,1,ar,MED,Asia
 'b35938a1d7',extremes,Precipitation,#d60d2b,wmo,منطقة المطر منطقة جازان جازان,2026-08-28T14:32:00+00:00,Saudi Arabia,0.4081333154242659,3,1,ar,ARP,Asia
 'fed99381dc',extremes,Wildfire,#d60d2b,effis,حرائق الغابات غير متوفر الجزائر,2026-08-27T13:00:00+00:00,Algeria,0.4075532241554378,4,1,ar,MED,Africa
