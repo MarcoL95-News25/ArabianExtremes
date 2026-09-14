@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 American,American,NORP,,,en,35.799999999999976
 Iranian,Iranian,NORP,,,en,23.000000000000004
-Israeli,Israeli,NORP,,,en,17.6
+Israeli,Israeli,NORP,,,en,18.400000000000002
 two,two,CARDINAL,,,en,15.600000000000003
 the 2026 World Cup,the 2026 World Cup,EVENT,,,en,14.500000000000004
 the World Cup,the World Cup,EVENT,,,en,14.500000000000004
@@ -20,10 +20,10 @@ Arab,Arab,NORP,,,en,9.000000000000002
 first,first,ORDINAL,,,en,8.4
 Saturday,Saturday,DATE,,,en,8.3
 2026,2026,DATE,,,en,8.200000000000001
+Tuesday,Tuesday,DATE,,,en,8.200000000000001
 morning,morning,TIME,,,en,8.200000000000001
 Wednesday,Wednesday,DATE,,,en,8.100000000000001
 British,British,NORP,,,en,8.100000000000001
-Tuesday,Tuesday,DATE,,,en,7.400000000000001
 Yemeni,Yemeni,NORP,,,en,7.300000000000001
 Spanish,Spanish,NORP,,,en,7.100000000000001
 Sudanese,Sudanese,NORP,,,en,7.1000000000000005
@@ -36,71 +36,71 @@ Two,Two,CARDINAL,,,en,5.5
 second,second,ORDINAL,,,en,5.5
 summer,summer,DATE,,,en,5.5
 three,three,CARDINAL,,,en,5.5
-English,English,NORP,,,en,5.5
 Nepalese,Nepalese,NORP,,,en,5.5
+English,English,NORP,,,en,5.5
 3,3,CARDINAL,,,en,4.7
 World Cup,World Cup,EVENT,,,en,4.6
+the coming days,the coming days,DATE,,,en,4.6
 days,days,DATE,,,en,4.6
 Turkish,Turkish,NORP,,,en,4.6
-the coming days,the coming days,DATE,,,en,4.6
 years,years,DATE,,,en,4.4
 Argentine,Argentine,NORP,,,en,3.6999999999999997
-Italian,Italian,NORP,,,en,3.6999999999999997
-four,four,CARDINAL,,,en,3.6999999999999997
-evening,evening,TIME,,,en,3.6999999999999997
-this week,this week,DATE,,,en,3.6999999999999997
 Thursday,Thursday,DATE,,,en,3.6999999999999997
+this week,this week,DATE,,,en,3.6999999999999997
+Italian,Italian,NORP,,,en,3.6999999999999997
+evening,evening,TIME,,,en,3.6999999999999997
+four,four,CARDINAL,,,en,3.6999999999999997
 dozens,dozens,CARDINAL,,,en,3.5999999999999996
-Arabs,Arabs,NORP,,,en,3.5
 7 years,7 years,DATE,,,en,3.5
 this year,this year,DATE,,,en,3.5
+Arabs,Arabs,NORP,,,en,3.5
+Palestinian,Palestinian,NORP,,,en,3.5
 Russian,Russian,NORP,,,en,3.0
-Ramadan,Ramadan,DATE,,,en,2.8
-Afghan,Afghan,NORP,,,en,2.8
-Portuguese,Portuguese,NORP,,,en,2.8
-One,One,CARDINAL,,,en,2.8
-17,17,CARDINAL,,,en,2.8
-two years,two years,DATE,,,en,2.8
-7,7,CARDINAL,,,en,2.8
 15,15,CARDINAL,,,en,2.8
+7,7,CARDINAL,,,en,2.8
+One,One,CARDINAL,,,en,2.8
+Afghan,Afghan,NORP,,,en,2.8
+17,17,CARDINAL,,,en,2.8
+Portuguese,Portuguese,NORP,,,en,2.8
+10,10,CARDINAL,,,en,2.8
+Ramadan,Ramadan,DATE,,,en,2.8
 Tunisian,Tunisian,NORP,,,en,2.8
-14,14,CARDINAL,,,en,2.8
+two years,two years,DATE,,,en,2.8
 Mexican,Mexican,NORP,,,en,2.8
 4,4,CARDINAL,,,en,2.8
 Jordanian,Jordanian,NORP,,,en,2.8
-Hurricane Buffy,Hurricane Buffy,EVENT,,,en,2.8
 7.5,7.5,CARDINAL,,,en,2.8
+Hurricane Buffy,Hurricane Buffy,EVENT,,,en,2.8
 Tens of thousands,Tens of thousands,CARDINAL,,,en,2.8
 11,11,CARDINAL,,,en,2.8
 18,18,CARDINAL,,,en,2.8
 millions,millions,CARDINAL,,,en,2.8
 night,night,TIME,,,en,2.8
-10,10,CARDINAL,,,en,2.8
+14,14,CARDINAL,,,en,2.8
 at least 12,at least 12,CARDINAL,,,en,2.7
 Qatari,Qatari,NORP,,,en,2.7
 12,12,CARDINAL,,,en,2.6
 5.6,5.6,CARDINAL,,,en,2.6
 "today, Friday","today, Friday",DATE,,,en,2.0
-Dutch,Dutch,NORP,,,en,1.9
+2025,2025,CARDINAL,,,en,1.9
 6,6,CARDINAL,,,en,1.9
 "more than 250,000","more than 250,000",CARDINAL,,,en,1.9
 Atlas,Atlas,WORK_OF_ART,,,en,1.9
 third,third,ORDINAL,,,en,1.9
-Palestinian,Palestinian,NORP,,,en,1.9
 tens of thousands,tens of thousands,CARDINAL,,,en,1.9
+Ethiopian,Ethiopian,NORP,,,en,1.9
 Lebanese,Lebanese,NORP,,,en,1.9
 zero,zero,CARDINAL,,,en,1.9
-the month of Ramadan,the month of Ramadan,DATE,,,en,1.9
 Iraqi,Iraqi,NORP,,,en,1.9
-Ethiopian,Ethiopian,NORP,,,en,1.9
+the month of Ramadan,the month of Ramadan,DATE,,,en,1.9
 "3,000 metres","3,000 metres",QUANTITY,,,en,1.9
-"today, Sunday","today, Sunday",DATE,,,en,1.9
 Dozens,Dozens,CARDINAL,,,en,1.9
+"today, Sunday","today, Sunday",DATE,,,en,1.9
 the next few days,the next few days,DATE,,,en,1.9
-"More than 100,000","More than 100,000",CARDINAL,,,en,1.9
 Islamic,Islamic,NORP,,,en,1.9
+"More than 100,000","More than 100,000",CARDINAL,,,en,1.9
 Gazprom,Gazprom,NORP,,,en,1.9
-2025,2025,CARDINAL,,,en,1.9
+Dutch,Dutch,NORP,,,en,1.9
 "3,700","3,700",CARDINAL,,,en,1.9
 9 million tons,9 million tons,QUANTITY,,,en,1.9
 Khartoum Airport,Khartoum Airport,FAC,,,en,1.9
