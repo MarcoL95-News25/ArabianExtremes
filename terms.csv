@@ -1,16 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'11ece58a02',extremes,Storm,#b3b2b1,wmo,عاصفة البحرين,2026-09-01T07:58:00+00:00,Bahrain,0.2818373549795743,6,1,ar,ARP,Asia
 '38d0ccf124',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان الخيام غ.م.,2026-09-01T07:57:00+00:00,Lebanon,0.2814869994819648,6,1,ar,MED,Asia
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف قطر,2026-09-01T07:58:00+00:00,Qatar,0.2813682144957554,6,1,ar,ARP,Asia
-'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2026-09-09T07:32:00+00:00,Algeria,0.2804258807427318,6,1,ar,SAH,Africa
-'1e57093be8',extremes,Precipitation,#d60d2b,wmo,أمطار منطقة منطقة مكة المكرمة القنفذة,2026-09-11T07:27:00+00:00,Saudi Arabia,0.2798066405067017,6,1,ar,ARP,Asia
-'8465f983bf',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-09-10T07:28:00+00:00,Algeria,0.2796361460176773,6,1,ar,SAH,Africa
-'618cdc01ab',extremes,Earthquake,#870007,usgs,زلزال الغيزة,2026-08-31T08:51:00+00:00,Yemen,0.2781990702976277,6,1,ar,NEAF,Africa
 '95694d19cf',extremes,Earthquake,#870007,usgs,زلزال اليمن,2026-09-01T07:57:00+00:00,Yemen,0.2768910410531708,6,1,ar,NEAF,Africa
 '10853d7246',extremes,Precipitation,#d60d2b,wmo,أمطار غزيرة أولاد جلال,2026-09-02T07:16:00+00:00,Algeria,0.276709588609288,6,1,ar,SAH,Africa
-'0eab50d850',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان إبل الساقي غ.أ.,2026-09-01T07:57:00+00:00,Lebanon,0.2760090667532299,5,1,ar,MED,Asia
-'a243225027',extremes,Wildfire,#d60d2b,effis,حرائق الغابات حولا لبنان,2026-09-02T07:16:00+00:00,Lebanon,0.2758282000590521,5,1,ar,MED,Asia
-'baed903ded',extremes,Wildfire,#d60d2b,effis,حريق بني حيان في لبنان,2026-09-02T07:16:00+00:00,Lebanon,0.2753298967165928,5,1,ar,MED,Asia
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,طقس شديد الجزائر,2026-09-05T07:05:00+00:00,Algeria,0.2751412463233979,6,1,ar,SAH,Africa
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,عاصفة العواصف في المملكة العربية السعودية,2026-09-01T07:58:00+00:00,Saudi Arabia,0.274225822560537,6,1,ar,ARP,Asia
 '845ccfd787',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في إبل الساقي لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.2734165458811673,5,1,ar,MED,Asia
@@ -38,19 +30,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65996a3f97',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان عيناتا غ.م.,2026-09-01T07:57:00+00:00,Lebanon,0.2446515159410719,6,1,ar,MED,Asia
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.2442914200253718,7,1,ar,MED,Asia
 '46792f17df',extremes,Heat Wave,#c40202,meteo,ارتفاع درجات الحرارة في الأراضي الفلسطينية,2026-09-12T07:19:00+00:00,Palestinian Territory,0.244062435763178,7,1,ar,MED,Asia
-'3617de9e43',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.24403202348206685,7,1,ar,MED,Asia
+'3617de9e43',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.2440320234820668,7,1,ar,MED,Asia
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.2429177037336946,7,1,ar,MED,Asia
 '25ab7bdf4f',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في سوان لبنان,2026-09-09T07:32:00+00:00,Lebanon,0.2423955832315402,6,1,ar,MED,Asia
 '7540581ac3',extremes,Thunderstorm,#53785a,wmo,عاصفة رعدية أدرار,2026-09-12T07:19:00+00:00,Algeria,0.2423760666758772,7,1,ar,SAH,Africa
 '1d2fd009c7',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان الحولة غير متوفر,2026-09-02T07:16:00+00:00,Lebanon,0.2405912846265212,6,1,ar,MED,Asia
 '2e475a7f24',extremes,Heat Wave,#c40202,wmo,موجة الحر وادي الحولة,2026-08-30T08:30:00+00:00,Israel,0.2405514056532206,6,1,ar,MED,Asia
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,عاصفة البحرين,2026-09-01T07:58:00+00:00,Bahrain,0.23956175173263813,7,1,ar,ARP,Asia
 'f93b8bab4a',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في حاريص لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.238365448109147,6,1,ar,MED,Asia
+'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,عاصفة الجزائر,2026-09-09T07:32:00+00:00,Algeria,0.23836199863132201,7,1,ar,SAH,Africa
 'e3258eae0f',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار منطقة المنطقة الشرقية العديدة,2026-09-03T07:20:00+00:00,Saudi Arabia,0.2383444583777924,6,1,ar,ARP,Asia
 '3073f65a64',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في الخيام لبنان,2026-09-01T07:57:00+00:00,Lebanon,0.2380715599851495,7,1,ar,MED,Asia
+'1e57093be8',extremes,Precipitation,#d60d2b,wmo,أمطار منطقة منطقة مكة المكرمة القنفذة,2026-09-11T07:27:00+00:00,Saudi Arabia,0.2378356444306964,7,1,ar,ARP,Asia
+'8465f983bf',extremes,Storm,#b3b2b1,wmo,عاصفة بشار,2026-09-10T07:28:00+00:00,Algeria,0.23769072411502568,7,1,ar,SAH,Africa
 '2dba3d4717',extremes,Precipitation,#d60d2b,wmo,هطول الأمطار في منطقة الباحة العقيق,2026-09-07T07:29:00+00:00,Saudi Arabia,0.2362576093776763,6,1,ar,ARP,Asia
 'f69e2488b5',extremes,Drought,#edc291,edo,جفاف تشاد,2026-09-01T07:58:00+00:00,Chad,0.2354278937808344,6,1,ar,SAH,Africa
-'5577bbdf6e',extremes,Drought,#edc291,edo,جفاف سوريا,2026-09-01T07:58:00+00:00,Syria,0.23494539285570817,6,1,ar,MED,Asia
+'5577bbdf6e',extremes,Drought,#edc291,edo,جفاف سوريا,2026-09-01T07:58:00+00:00,Syria,0.2349453928557081,6,1,ar,MED,Asia
+'0eab50d850',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان إبل الساقي غ.أ.,2026-09-01T07:57:00+00:00,Lebanon,0.2346077067402454,6,1,ar,MED,Asia
+'a243225027',extremes,Wildfire,#d60d2b,effis,حرائق الغابات حولا لبنان,2026-09-02T07:16:00+00:00,Lebanon,0.2344539700501943,6,1,ar,MED,Asia
+'baed903ded',extremes,Wildfire,#d60d2b,effis,حريق بني حيان في لبنان,2026-09-02T07:16:00+00:00,Lebanon,0.23403041220910387,6,1,ar,MED,Asia
 '727170639c',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان عيتا الزوت غ.أ.,2026-09-01T07:57:00+00:00,Lebanon,0.2332015987994834,6,1,ar,MED,Asia
 'aae58ea939',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان بيت ياهون غ.أ.,2026-09-01T07:57:00+00:00,Lebanon,0.232906494603008,6,1,ar,MED,Asia
 '4dc4df4cbd',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان الكوزة غير متوفر,2026-09-02T07:16:00+00:00,Lebanon,0.2327481373396732,6,1,ar,MED,Asia
-'155617fb63',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان souané n.a.,2026-09-09T07:32:00+00:00,Lebanon,0.21026237182286625,7,1,ar,MED,Asia
+'155617fb63',extremes,Wildfire,#d60d2b,effis,حرائق الغابات في لبنان souané n.a.,2026-09-09T07:32:00+00:00,Lebanon,0.2102623718228662,7,1,ar,MED,Asia
